@@ -1,0 +1,1710 @@
+"All three in one long table (one row per value), mining supply only",,,,,,,,
+Filter by 'table'. Use row_type to avoid double counting totals.,,,,,,,,
+,,,,,,,,
+table,mineral,stage_or_technology,country,row_type,scenario,year,value,unit
+Mining supply (base case),Copper,Mining,Chile,country,Base case,2025,"5,485.00",kt
+Mining supply (base case),Copper,Mining,Chile,country,Base case,2030,"5,369.00",kt
+Mining supply (base case),Copper,Mining,Chile,country,Base case,2035,"4,841.00",kt
+Mining supply (base case),Copper,Mining,Chile,country,Base case,2040,"4,165.00",kt
+Mining supply (base case),Copper,Mining,Democratic Republic of Congo,country,Base case,2025,"3,338.00",kt
+Mining supply (base case),Copper,Mining,Democratic Republic of Congo,country,Base case,2030,"4,212.00",kt
+Mining supply (base case),Copper,Mining,Democratic Republic of Congo,country,Base case,2035,"3,041.00",kt
+Mining supply (base case),Copper,Mining,Democratic Republic of Congo,country,Base case,2040,"2,696.00",kt
+Mining supply (base case),Copper,Mining,Peru,country,Base case,2025,"2,726.00",kt
+Mining supply (base case),Copper,Mining,Peru,country,Base case,2030,"2,712.00",kt
+Mining supply (base case),Copper,Mining,Peru,country,Base case,2035,"2,384.00",kt
+Mining supply (base case),Copper,Mining,Peru,country,Base case,2040,"1,859.00",kt
+Mining supply (base case),Copper,Mining,China,country,Base case,2025,"1,838.00",kt
+Mining supply (base case),Copper,Mining,China,country,Base case,2030,"2,040.00",kt
+Mining supply (base case),Copper,Mining,China,country,Base case,2035,"1,965.00",kt
+Mining supply (base case),Copper,Mining,China,country,Base case,2040,"1,852.00",kt
+Mining supply (base case),Copper,Mining,Russia,country,Base case,2025,"1,145.00",kt
+Mining supply (base case),Copper,Mining,Russia,country,Base case,2030,"1,244.00",kt
+Mining supply (base case),Copper,Mining,Russia,country,Base case,2035,"1,424.00",kt
+Mining supply (base case),Copper,Mining,Russia,country,Base case,2040,"1,343.00",kt
+Mining supply (base case),Copper,Mining,United States,country,Base case,2025,"1,101.00",kt
+Mining supply (base case),Copper,Mining,United States,country,Base case,2030,"1,196.00",kt
+Mining supply (base case),Copper,Mining,United States,country,Base case,2035,823.00,kt
+Mining supply (base case),Copper,Mining,United States,country,Base case,2040,632.00,kt
+Mining supply (base case),Copper,Mining,Rest of world,rest_of_world,Base case,2025,"7,594.00",kt
+Mining supply (base case),Copper,Mining,Rest of world,rest_of_world,Base case,2030,"7,798.00",kt
+Mining supply (base case),Copper,Mining,Rest of world,rest_of_world,Base case,2035,"6,255.00",kt
+Mining supply (base case),Copper,Mining,Rest of world,rest_of_world,Base case,2040,"4,636.00",kt
+Mining supply (base case),Copper,Mining,World,total,Base case,2025,"23,227.00",kt
+Mining supply (base case),Copper,Mining,World,total,Base case,2030,"24,571.00",kt
+Mining supply (base case),Copper,Mining,World,total,Base case,2035,"20,733.00",kt
+Mining supply (base case),Copper,Mining,World,total,Base case,2040,"17,183.00",kt
+Mining supply (base case),Copper,Mining,World,top3_share,Base case,2025,0.50,share
+Mining supply (base case),Copper,Mining,World,top3_share,Base case,2030,0.50,share
+Mining supply (base case),Copper,Mining,World,top3_share,Base case,2035,0.50,share
+Mining supply (base case),Copper,Mining,World,top3_share,Base case,2040,0.51,share
+Mining supply (base case),Cobalt,Mining,Democratic Republic of Congo,country,Base case,2025,210.00,kt
+Mining supply (base case),Cobalt,Mining,Democratic Republic of Congo,country,Base case,2030,121.00,kt
+Mining supply (base case),Cobalt,Mining,Democratic Republic of Congo,country,Base case,2035,106.00,kt
+Mining supply (base case),Cobalt,Mining,Democratic Republic of Congo,country,Base case,2040,88.10,kt
+Mining supply (base case),Cobalt,Mining,Indonesia,country,Base case,2025,48.30,kt
+Mining supply (base case),Cobalt,Mining,Indonesia,country,Base case,2030,69.10,kt
+Mining supply (base case),Cobalt,Mining,Indonesia,country,Base case,2035,69.10,kt
+Mining supply (base case),Cobalt,Mining,Indonesia,country,Base case,2040,66.80,kt
+Mining supply (base case),Cobalt,Mining,Russia,country,Base case,2025,7.69,kt
+Mining supply (base case),Cobalt,Mining,Russia,country,Base case,2030,8.26,kt
+Mining supply (base case),Cobalt,Mining,Russia,country,Base case,2035,8.29,kt
+Mining supply (base case),Cobalt,Mining,Russia,country,Base case,2040,8.29,kt
+Mining supply (base case),Cobalt,Mining,China,country,Base case,2025,7.38,kt
+Mining supply (base case),Cobalt,Mining,China,country,Base case,2030,7.36,kt
+Mining supply (base case),Cobalt,Mining,China,country,Base case,2035,7.36,kt
+Mining supply (base case),Cobalt,Mining,China,country,Base case,2040,7.36,kt
+Mining supply (base case),Cobalt,Mining,Australia,country,Base case,2025,4.15,kt
+Mining supply (base case),Cobalt,Mining,Australia,country,Base case,2030,4.98,kt
+Mining supply (base case),Cobalt,Mining,Australia,country,Base case,2035,3.94,kt
+Mining supply (base case),Cobalt,Mining,Australia,country,Base case,2040,3.69,kt
+Mining supply (base case),Cobalt,Mining,Zambia,country,Base case,2025,4.33,kt
+Mining supply (base case),Cobalt,Mining,Zambia,country,Base case,2030,7.49,kt
+Mining supply (base case),Cobalt,Mining,Zambia,country,Base case,2035,7.49,kt
+Mining supply (base case),Cobalt,Mining,Zambia,country,Base case,2040,5.61,kt
+Mining supply (base case),Cobalt,Mining,Rest of world,rest_of_world,Base case,2025,38.60,kt
+Mining supply (base case),Cobalt,Mining,Rest of world,rest_of_world,Base case,2030,33.60,kt
+Mining supply (base case),Cobalt,Mining,Rest of world,rest_of_world,Base case,2035,23.40,kt
+Mining supply (base case),Cobalt,Mining,Rest of world,rest_of_world,Base case,2040,20.50,kt
+Mining supply (base case),Cobalt,Mining,World,total,Base case,2025,320.00,kt
+Mining supply (base case),Cobalt,Mining,World,total,Base case,2030,252.00,kt
+Mining supply (base case),Cobalt,Mining,World,total,Base case,2035,225.00,kt
+Mining supply (base case),Cobalt,Mining,World,total,Base case,2040,200.00,kt
+Mining supply (base case),Cobalt,Mining,World,top3_share,Base case,2025,0.83,share
+Mining supply (base case),Cobalt,Mining,World,top3_share,Base case,2030,0.79,share
+Mining supply (base case),Cobalt,Mining,World,top3_share,Base case,2035,0.81,share
+Mining supply (base case),Cobalt,Mining,World,top3_share,Base case,2040,0.81,share
+Mining supply (base case),Lithium,Mining,Australia,country,Base case,2025,104.00,kt
+Mining supply (base case),Lithium,Mining,Australia,country,Base case,2030,143.00,kt
+Mining supply (base case),Lithium,Mining,Australia,country,Base case,2035,139.00,kt
+Mining supply (base case),Lithium,Mining,Australia,country,Base case,2040,120.00,kt
+Mining supply (base case),Lithium,Mining,China,country,Base case,2025,69.90,kt
+Mining supply (base case),Lithium,Mining,China,country,Base case,2030,162.00,kt
+Mining supply (base case),Lithium,Mining,China,country,Base case,2035,150.00,kt
+Mining supply (base case),Lithium,Mining,China,country,Base case,2040,150.00,kt
+Mining supply (base case),Lithium,Mining,Chile,country,Base case,2025,52.10,kt
+Mining supply (base case),Lithium,Mining,Chile,country,Base case,2030,56.60,kt
+Mining supply (base case),Lithium,Mining,Chile,country,Base case,2035,58.40,kt
+Mining supply (base case),Lithium,Mining,Chile,country,Base case,2040,58.60,kt
+Mining supply (base case),Lithium,Mining,Zimbabwe,country,Base case,2025,27.70,kt
+Mining supply (base case),Lithium,Mining,Zimbabwe,country,Base case,2030,26.60,kt
+Mining supply (base case),Lithium,Mining,Zimbabwe,country,Base case,2035,26.60,kt
+Mining supply (base case),Lithium,Mining,Zimbabwe,country,Base case,2040,26.60,kt
+Mining supply (base case),Lithium,Mining,Argentina,country,Base case,2025,18.70,kt
+Mining supply (base case),Lithium,Mining,Argentina,country,Base case,2030,51.40,kt
+Mining supply (base case),Lithium,Mining,Argentina,country,Base case,2035,54.10,kt
+Mining supply (base case),Lithium,Mining,Argentina,country,Base case,2040,54.40,kt
+Mining supply (base case),Lithium,Mining,Canada,country,Base case,2025,6.65,kt
+Mining supply (base case),Lithium,Mining,Canada,country,Base case,2030,23.90,kt
+Mining supply (base case),Lithium,Mining,Canada,country,Base case,2035,22.00,kt
+Mining supply (base case),Lithium,Mining,Canada,country,Base case,2040,22.00,kt
+Mining supply (base case),Lithium,Mining,Rest of world,rest_of_world,Base case,2025,23.50,kt
+Mining supply (base case),Lithium,Mining,Rest of world,rest_of_world,Base case,2030,77.10,kt
+Mining supply (base case),Lithium,Mining,Rest of world,rest_of_world,Base case,2035,64.70,kt
+Mining supply (base case),Lithium,Mining,Rest of world,rest_of_world,Base case,2040,50.20,kt
+Mining supply (base case),Lithium,Mining,World,total,Base case,2025,302.00,kt
+Mining supply (base case),Lithium,Mining,World,total,Base case,2030,540.00,kt
+Mining supply (base case),Lithium,Mining,World,total,Base case,2035,514.00,kt
+Mining supply (base case),Lithium,Mining,World,total,Base case,2040,482.00,kt
+Mining supply (base case),Lithium,Mining,World,top3_share,Base case,2025,0.75,share
+Mining supply (base case),Lithium,Mining,World,top3_share,Base case,2030,0.67,share
+Mining supply (base case),Lithium,Mining,World,top3_share,Base case,2035,0.68,share
+Mining supply (base case),Lithium,Mining,World,top3_share,Base case,2040,0.68,share
+Mining supply (base case),Nickel,Mining,Indonesia,country,Base case,2025,"2,637.00",kt
+Mining supply (base case),Nickel,Mining,Indonesia,country,Base case,2030,"3,567.00",kt
+Mining supply (base case),Nickel,Mining,Indonesia,country,Base case,2035,"3,568.00",kt
+Mining supply (base case),Nickel,Mining,Indonesia,country,Base case,2040,"3,568.00",kt
+Mining supply (base case),Nickel,Mining,Philippines,country,Base case,2025,482.00,kt
+Mining supply (base case),Nickel,Mining,Philippines,country,Base case,2030,308.00,kt
+Mining supply (base case),Nickel,Mining,Philippines,country,Base case,2035,308.00,kt
+Mining supply (base case),Nickel,Mining,Philippines,country,Base case,2040,308.00,kt
+Mining supply (base case),Nickel,Mining,Russia,country,Base case,2025,192.00,kt
+Mining supply (base case),Nickel,Mining,Russia,country,Base case,2030,218.00,kt
+Mining supply (base case),Nickel,Mining,Russia,country,Base case,2035,218.00,kt
+Mining supply (base case),Nickel,Mining,Russia,country,Base case,2040,218.00,kt
+Mining supply (base case),Nickel,Mining,China,country,Base case,2025,147.00,kt
+Mining supply (base case),Nickel,Mining,China,country,Base case,2030,161.00,kt
+Mining supply (base case),Nickel,Mining,China,country,Base case,2035,159.00,kt
+Mining supply (base case),Nickel,Mining,China,country,Base case,2040,152.00,kt
+Mining supply (base case),Nickel,Mining,New Caledonia,country,Base case,2025,138.00,kt
+Mining supply (base case),Nickel,Mining,New Caledonia,country,Base case,2030,207.00,kt
+Mining supply (base case),Nickel,Mining,New Caledonia,country,Base case,2035,207.00,kt
+Mining supply (base case),Nickel,Mining,New Caledonia,country,Base case,2040,207.00,kt
+Mining supply (base case),Nickel,Mining,Canada,country,Base case,2025,138.00,kt
+Mining supply (base case),Nickel,Mining,Canada,country,Base case,2030,147.00,kt
+Mining supply (base case),Nickel,Mining,Canada,country,Base case,2035,137.00,kt
+Mining supply (base case),Nickel,Mining,Canada,country,Base case,2040,52.00,kt
+Mining supply (base case),Nickel,Mining,Brazil,country,Base case,2025,85.00,kt
+Mining supply (base case),Nickel,Mining,Brazil,country,Base case,2030,82.00,kt
+Mining supply (base case),Nickel,Mining,Brazil,country,Base case,2035,82.00,kt
+Mining supply (base case),Nickel,Mining,Brazil,country,Base case,2040,82.00,kt
+Mining supply (base case),Nickel,Mining,Rest of world,rest_of_world,Base case,2025,388.00,kt
+Mining supply (base case),Nickel,Mining,Rest of world,rest_of_world,Base case,2030,408.00,kt
+Mining supply (base case),Nickel,Mining,Rest of world,rest_of_world,Base case,2035,271.00,kt
+Mining supply (base case),Nickel,Mining,Rest of world,rest_of_world,Base case,2040,271.00,kt
+Mining supply (base case),Nickel,Mining,World,total,Base case,2025,"4,207.00",kt
+Mining supply (base case),Nickel,Mining,World,total,Base case,2030,"5,098.00",kt
+Mining supply (base case),Nickel,Mining,World,total,Base case,2035,"4,950.00",kt
+Mining supply (base case),Nickel,Mining,World,total,Base case,2040,"4,858.00",kt
+Mining supply (base case),Nickel,Mining,World,top3_share,Base case,2025,0.79,share
+Mining supply (base case),Nickel,Mining,World,top3_share,Base case,2030,0.80,share
+Mining supply (base case),Nickel,Mining,World,top3_share,Base case,2035,0.83,share
+Mining supply (base case),Nickel,Mining,World,top3_share,Base case,2040,0.84,share
+Mining supply (base case),Graphite,Mining (natural),China,country,Base case,2025,"1,432.00",kt
+Mining supply (base case),Graphite,Mining (natural),China,country,Base case,2030,"1,239.00",kt
+Mining supply (base case),Graphite,Mining (natural),China,country,Base case,2035,"1,277.00",kt
+Mining supply (base case),Graphite,Mining (natural),China,country,Base case,2040,"1,337.00",kt
+Mining supply (base case),Graphite,Mining (natural),Madagascar,country,Base case,2025,69.70,kt
+Mining supply (base case),Graphite,Mining (natural),Madagascar,country,Base case,2030,170.00,kt
+Mining supply (base case),Graphite,Mining (natural),Madagascar,country,Base case,2035,168.00,kt
+Mining supply (base case),Graphite,Mining (natural),Madagascar,country,Base case,2040,165.00,kt
+Mining supply (base case),Graphite,Mining (natural),Mozambique,country,Base case,2025,66.60,kt
+Mining supply (base case),Graphite,Mining (natural),Mozambique,country,Base case,2030,259.00,kt
+Mining supply (base case),Graphite,Mining (natural),Mozambique,country,Base case,2035,348.00,kt
+Mining supply (base case),Graphite,Mining (natural),Mozambique,country,Base case,2040,368.00,kt
+Mining supply (base case),Graphite,Mining (natural),Tanzania,country,Base case,2025,61.80,kt
+Mining supply (base case),Graphite,Mining (natural),Tanzania,country,Base case,2030,263.00,kt
+Mining supply (base case),Graphite,Mining (natural),Tanzania,country,Base case,2035,283.00,kt
+Mining supply (base case),Graphite,Mining (natural),Tanzania,country,Base case,2040,283.00,kt
+Mining supply (base case),Graphite,Mining (natural),Brazil,country,Base case,2025,64.10,kt
+Mining supply (base case),Graphite,Mining (natural),Brazil,country,Base case,2030,98.50,kt
+Mining supply (base case),Graphite,Mining (natural),Brazil,country,Base case,2035,104.00,kt
+Mining supply (base case),Graphite,Mining (natural),Brazil,country,Base case,2040,83.90,kt
+Mining supply (base case),Graphite,Mining (natural),Russia,country,Base case,2025,28.20,kt
+Mining supply (base case),Graphite,Mining (natural),Russia,country,Base case,2030,30.10,kt
+Mining supply (base case),Graphite,Mining (natural),Russia,country,Base case,2035,50.10,kt
+Mining supply (base case),Graphite,Mining (natural),Russia,country,Base case,2040,48.80,kt
+Mining supply (base case),Graphite,Mining (natural),Rest of world,rest_of_world,Base case,2025,58.00,kt
+Mining supply (base case),Graphite,Mining (natural),Rest of world,rest_of_world,Base case,2030,154.00,kt
+Mining supply (base case),Graphite,Mining (natural),Rest of world,rest_of_world,Base case,2035,166.00,kt
+Mining supply (base case),Graphite,Mining (natural),Rest of world,rest_of_world,Base case,2040,174.00,kt
+Mining supply (base case),Graphite,Mining (natural),World,total,Base case,2025,"1,781.00",kt
+Mining supply (base case),Graphite,Mining (natural),World,total,Base case,2030,"2,214.00",kt
+Mining supply (base case),Graphite,Mining (natural),World,total,Base case,2035,"2,396.00",kt
+Mining supply (base case),Graphite,Mining (natural),World,total,Base case,2040,"2,460.00",kt
+Mining supply (base case),Graphite,Mining (natural),World,top3_share,Base case,2025,0.88,share
+Mining supply (base case),Graphite,Mining (natural),World,top3_share,Base case,2030,0.80,share
+Mining supply (base case),Graphite,Mining (natural),World,top3_share,Base case,2035,0.80,share
+Mining supply (base case),Graphite,Mining (natural),World,top3_share,Base case,2040,0.81,share
+Mining supply (base case),Magnet rare earth elements,Mining,China,country,Base case,2025,47.20,kt
+Mining supply (base case),Magnet rare earth elements,Mining,China,country,Base case,2030,51.20,kt
+Mining supply (base case),Magnet rare earth elements,Mining,China,country,Base case,2035,56.80,kt
+Mining supply (base case),Magnet rare earth elements,Mining,China,country,Base case,2040,56.80,kt
+Mining supply (base case),Magnet rare earth elements,Mining,Myanmar,country,Base case,2025,13.10,kt
+Mining supply (base case),Magnet rare earth elements,Mining,Myanmar,country,Base case,2030,10.80,kt
+Mining supply (base case),Magnet rare earth elements,Mining,Myanmar,country,Base case,2035,11.00,kt
+Mining supply (base case),Magnet rare earth elements,Mining,Myanmar,country,Base case,2040,11.00,kt
+Mining supply (base case),Magnet rare earth elements,Mining,United States,country,Base case,2025,7.40,kt
+Mining supply (base case),Magnet rare earth elements,Mining,United States,country,Base case,2030,9.47,kt
+Mining supply (base case),Magnet rare earth elements,Mining,United States,country,Base case,2035,9.47,kt
+Mining supply (base case),Magnet rare earth elements,Mining,United States,country,Base case,2040,9.47,kt
+Mining supply (base case),Magnet rare earth elements,Mining,Australia,country,Base case,2025,4.09,kt
+Mining supply (base case),Magnet rare earth elements,Mining,Australia,country,Base case,2030,11.40,kt
+Mining supply (base case),Magnet rare earth elements,Mining,Australia,country,Base case,2035,12.30,kt
+Mining supply (base case),Magnet rare earth elements,Mining,Australia,country,Base case,2040,12.30,kt
+Mining supply (base case),Magnet rare earth elements,Mining,Lao People's Democratic Republic,country,Base case,2025,3.75,kt
+Mining supply (base case),Magnet rare earth elements,Mining,Lao People's Democratic Republic,country,Base case,2030,7.66,kt
+Mining supply (base case),Magnet rare earth elements,Mining,Lao People's Democratic Republic,country,Base case,2035,7.66,kt
+Mining supply (base case),Magnet rare earth elements,Mining,Lao People's Democratic Republic,country,Base case,2040,7.66,kt
+Mining supply (base case),Magnet rare earth elements,Mining,Rest of world,rest_of_world,Base case,2025,4.97,kt
+Mining supply (base case),Magnet rare earth elements,Mining,Rest of world,rest_of_world,Base case,2030,6.31,kt
+Mining supply (base case),Magnet rare earth elements,Mining,Rest of world,rest_of_world,Base case,2035,6.31,kt
+Mining supply (base case),Magnet rare earth elements,Mining,Rest of world,rest_of_world,Base case,2040,6.31,kt
+Mining supply (base case),Magnet rare earth elements,Mining,World,total,Base case,2025,80.50,kt
+Mining supply (base case),Magnet rare earth elements,Mining,World,total,Base case,2030,96.90,kt
+Mining supply (base case),Magnet rare earth elements,Mining,World,total,Base case,2035,104.00,kt
+Mining supply (base case),Magnet rare earth elements,Mining,World,total,Base case,2040,104.00,kt
+Mining supply (base case),Magnet rare earth elements,Mining,World,top3_share,Base case,2025,0.84,share
+Mining supply (base case),Magnet rare earth elements,Mining,World,top3_share,Base case,2030,0.76,share
+Mining supply (base case),Magnet rare earth elements,Mining,World,top3_share,Base case,2035,0.77,share
+Mining supply (base case),Magnet rare earth elements,Mining,World,top3_share,Base case,2040,0.77,share
+Energy demand by technology,Chromium,Wind,World,component,Base year (all scenarios),2025,71.20,kt
+Energy demand by technology,Chromium,Wind,World,component,Current Policies scenario,2030,82.50,kt
+Energy demand by technology,Chromium,Wind,World,component,Current Policies scenario,2035,72.10,kt
+Energy demand by technology,Chromium,Wind,World,component,Current Policies scenario,2040,64.30,kt
+Energy demand by technology,Chromium,Wind,World,component,Current Policies scenario,2045,74.20,kt
+Energy demand by technology,Chromium,Wind,World,component,Current Policies scenario,2050,85.80,kt
+Energy demand by technology,Chromium,Wind,World,component,Stated Policies scenario,2030,95.20,kt
+Energy demand by technology,Chromium,Wind,World,component,Stated Policies scenario,2035,83.20,kt
+Energy demand by technology,Chromium,Wind,World,component,Stated Policies scenario,2040,70.50,kt
+Energy demand by technology,Chromium,Wind,World,component,Stated Policies scenario,2045,79.30,kt
+Energy demand by technology,Chromium,Wind,World,component,Stated Policies scenario,2050,94.80,kt
+Energy demand by technology,Chromium,Wind,World,component,High Demand Scenario,2030,133.00,kt
+Energy demand by technology,Chromium,Wind,World,component,High Demand Scenario,2035,122.00,kt
+Energy demand by technology,Chromium,Wind,World,component,High Demand Scenario,2040,108.00,kt
+Energy demand by technology,Chromium,Wind,World,component,High Demand Scenario,2045,113.00,kt
+Energy demand by technology,Chromium,Wind,World,component,High Demand Scenario,2050,153.00,kt
+Energy demand by technology,Chromium,Other low emissions power generation,World,component,Base year (all scenarios),2025,118.00,kt
+Energy demand by technology,Chromium,Other low emissions power generation,World,component,Current Policies scenario,2030,254.00,kt
+Energy demand by technology,Chromium,Other low emissions power generation,World,component,Current Policies scenario,2035,271.00,kt
+Energy demand by technology,Chromium,Other low emissions power generation,World,component,Current Policies scenario,2040,266.00,kt
+Energy demand by technology,Chromium,Other low emissions power generation,World,component,Current Policies scenario,2045,271.00,kt
+Energy demand by technology,Chromium,Other low emissions power generation,World,component,Current Policies scenario,2050,246.00,kt
+Energy demand by technology,Chromium,Other low emissions power generation,World,component,Stated Policies scenario,2030,278.00,kt
+Energy demand by technology,Chromium,Other low emissions power generation,World,component,Stated Policies scenario,2035,295.00,kt
+Energy demand by technology,Chromium,Other low emissions power generation,World,component,Stated Policies scenario,2040,293.00,kt
+Energy demand by technology,Chromium,Other low emissions power generation,World,component,Stated Policies scenario,2045,296.00,kt
+Energy demand by technology,Chromium,Other low emissions power generation,World,component,Stated Policies scenario,2050,269.00,kt
+Energy demand by technology,Chromium,Other low emissions power generation,World,component,High Demand Scenario,2030,363.00,kt
+Energy demand by technology,Chromium,Other low emissions power generation,World,component,High Demand Scenario,2035,353.00,kt
+Energy demand by technology,Chromium,Other low emissions power generation,World,component,High Demand Scenario,2040,358.00,kt
+Energy demand by technology,Chromium,Other low emissions power generation,World,component,High Demand Scenario,2045,354.00,kt
+Energy demand by technology,Chromium,Other low emissions power generation,World,component,High Demand Scenario,2050,385.00,kt
+Energy demand by technology,Chromium,Total,World,total,Base year (all scenarios),2025,190.00,kt
+Energy demand by technology,Chromium,Total,World,total,Current Policies scenario,2030,336.00,kt
+Energy demand by technology,Chromium,Total,World,total,Current Policies scenario,2035,343.00,kt
+Energy demand by technology,Chromium,Total,World,total,Current Policies scenario,2040,331.00,kt
+Energy demand by technology,Chromium,Total,World,total,Current Policies scenario,2045,345.00,kt
+Energy demand by technology,Chromium,Total,World,total,Current Policies scenario,2050,332.00,kt
+Energy demand by technology,Chromium,Total,World,total,Stated Policies scenario,2030,373.00,kt
+Energy demand by technology,Chromium,Total,World,total,Stated Policies scenario,2035,378.00,kt
+Energy demand by technology,Chromium,Total,World,total,Stated Policies scenario,2040,363.00,kt
+Energy demand by technology,Chromium,Total,World,total,Stated Policies scenario,2045,375.00,kt
+Energy demand by technology,Chromium,Total,World,total,Stated Policies scenario,2050,364.00,kt
+Energy demand by technology,Chromium,Total,World,total,High Demand Scenario,2030,496.00,kt
+Energy demand by technology,Chromium,Total,World,total,High Demand Scenario,2035,474.00,kt
+Energy demand by technology,Chromium,Total,World,total,High Demand Scenario,2040,466.00,kt
+Energy demand by technology,Chromium,Total,World,total,High Demand Scenario,2045,467.00,kt
+Energy demand by technology,Chromium,Total,World,total,High Demand Scenario,2050,539.00,kt
+Energy demand by technology,Copper,Solar PV,World,component,Base year (all scenarios),2025,"1,970.00",kt
+Energy demand by technology,Copper,Solar PV,World,component,Current Policies scenario,2030,"2,044.00",kt
+Energy demand by technology,Copper,Solar PV,World,component,Current Policies scenario,2035,"1,731.00",kt
+Energy demand by technology,Copper,Solar PV,World,component,Current Policies scenario,2040,"1,755.00",kt
+Energy demand by technology,Copper,Solar PV,World,component,Current Policies scenario,2045,"1,990.00",kt
+Energy demand by technology,Copper,Solar PV,World,component,Current Policies scenario,2050,"2,099.00",kt
+Energy demand by technology,Copper,Solar PV,World,component,Stated Policies scenario,2030,"2,222.00",kt
+Energy demand by technology,Copper,Solar PV,World,component,Stated Policies scenario,2035,"2,164.00",kt
+Energy demand by technology,Copper,Solar PV,World,component,Stated Policies scenario,2040,"2,219.00",kt
+Energy demand by technology,Copper,Solar PV,World,component,Stated Policies scenario,2045,"2,286.00",kt
+Energy demand by technology,Copper,Solar PV,World,component,Stated Policies scenario,2050,"2,300.00",kt
+Energy demand by technology,Copper,Solar PV,World,component,High Demand Scenario,2030,"2,803.00",kt
+Energy demand by technology,Copper,Solar PV,World,component,High Demand Scenario,2035,"2,726.00",kt
+Energy demand by technology,Copper,Solar PV,World,component,High Demand Scenario,2040,"2,626.00",kt
+Energy demand by technology,Copper,Solar PV,World,component,High Demand Scenario,2045,"2,448.00",kt
+Energy demand by technology,Copper,Solar PV,World,component,High Demand Scenario,2050,"2,758.00",kt
+Energy demand by technology,Copper,Wind,World,component,Base year (all scenarios),2025,542.00,kt
+Energy demand by technology,Copper,Wind,World,component,Current Policies scenario,2030,673.00,kt
+Energy demand by technology,Copper,Wind,World,component,Current Policies scenario,2035,636.00,kt
+Energy demand by technology,Copper,Wind,World,component,Current Policies scenario,2040,523.00,kt
+Energy demand by technology,Copper,Wind,World,component,Current Policies scenario,2045,572.00,kt
+Energy demand by technology,Copper,Wind,World,component,Current Policies scenario,2050,652.00,kt
+Energy demand by technology,Copper,Wind,World,component,Stated Policies scenario,2030,791.00,kt
+Energy demand by technology,Copper,Wind,World,component,Stated Policies scenario,2035,734.00,kt
+Energy demand by technology,Copper,Wind,World,component,Stated Policies scenario,2040,571.00,kt
+Energy demand by technology,Copper,Wind,World,component,Stated Policies scenario,2045,615.00,kt
+Energy demand by technology,Copper,Wind,World,component,Stated Policies scenario,2050,731.00,kt
+Energy demand by technology,Copper,Wind,World,component,High Demand Scenario,2030,"1,172.00",kt
+Energy demand by technology,Copper,Wind,World,component,High Demand Scenario,2035,"1,038.00",kt
+Energy demand by technology,Copper,Wind,World,component,High Demand Scenario,2040,919.00,kt
+Energy demand by technology,Copper,Wind,World,component,High Demand Scenario,2045,968.00,kt
+Energy demand by technology,Copper,Wind,World,component,High Demand Scenario,2050,"1,314.00",kt
+Energy demand by technology,Copper,Other low emissions power generation,World,component,Base year (all scenarios),2025,57.80,kt
+Energy demand by technology,Copper,Other low emissions power generation,World,component,Current Policies scenario,2030,123.00,kt
+Energy demand by technology,Copper,Other low emissions power generation,World,component,Current Policies scenario,2035,100.00,kt
+Energy demand by technology,Copper,Other low emissions power generation,World,component,Current Policies scenario,2040,99.70,kt
+Energy demand by technology,Copper,Other low emissions power generation,World,component,Current Policies scenario,2045,104.00,kt
+Energy demand by technology,Copper,Other low emissions power generation,World,component,Current Policies scenario,2050,105.00,kt
+Energy demand by technology,Copper,Other low emissions power generation,World,component,Stated Policies scenario,2030,128.00,kt
+Energy demand by technology,Copper,Other low emissions power generation,World,component,Stated Policies scenario,2035,108.00,kt
+Energy demand by technology,Copper,Other low emissions power generation,World,component,Stated Policies scenario,2040,110.00,kt
+Energy demand by technology,Copper,Other low emissions power generation,World,component,Stated Policies scenario,2045,113.00,kt
+Energy demand by technology,Copper,Other low emissions power generation,World,component,Stated Policies scenario,2050,114.00,kt
+Energy demand by technology,Copper,Other low emissions power generation,World,component,High Demand Scenario,2030,166.00,kt
+Energy demand by technology,Copper,Other low emissions power generation,World,component,High Demand Scenario,2035,155.00,kt
+Energy demand by technology,Copper,Other low emissions power generation,World,component,High Demand Scenario,2040,135.00,kt
+Energy demand by technology,Copper,Other low emissions power generation,World,component,High Demand Scenario,2045,137.00,kt
+Energy demand by technology,Copper,Other low emissions power generation,World,component,High Demand Scenario,2050,121.00,kt
+Energy demand by technology,Copper,Electric vehicles,World,component,Base year (all scenarios),2025,794.00,kt
+Energy demand by technology,Copper,Electric vehicles,World,component,Current Policies scenario,2030,"1,623.00",kt
+Energy demand by technology,Copper,Electric vehicles,World,component,Current Policies scenario,2035,"2,146.00",kt
+Energy demand by technology,Copper,Electric vehicles,World,component,Current Policies scenario,2040,"2,359.00",kt
+Energy demand by technology,Copper,Electric vehicles,World,component,Current Policies scenario,2045,"2,385.00",kt
+Energy demand by technology,Copper,Electric vehicles,World,component,Current Policies scenario,2050,"2,391.00",kt
+Energy demand by technology,Copper,Electric vehicles,World,component,Stated Policies scenario,2030,"1,763.00",kt
+Energy demand by technology,Copper,Electric vehicles,World,component,Stated Policies scenario,2035,"2,561.00",kt
+Energy demand by technology,Copper,Electric vehicles,World,component,Stated Policies scenario,2040,"3,046.00",kt
+Energy demand by technology,Copper,Electric vehicles,World,component,Stated Policies scenario,2045,"3,288.00",kt
+Energy demand by technology,Copper,Electric vehicles,World,component,Stated Policies scenario,2050,"3,476.00",kt
+Energy demand by technology,Copper,Electric vehicles,World,component,High Demand Scenario,2030,"2,017.00",kt
+Energy demand by technology,Copper,Electric vehicles,World,component,High Demand Scenario,2035,"3,258.00",kt
+Energy demand by technology,Copper,Electric vehicles,World,component,High Demand Scenario,2040,"4,143.00",kt
+Energy demand by technology,Copper,Electric vehicles,World,component,High Demand Scenario,2045,"4,473.00",kt
+Energy demand by technology,Copper,Electric vehicles,World,component,High Demand Scenario,2050,"4,750.00",kt
+Energy demand by technology,Copper,Grid battery storage,World,component,Base year (all scenarios),2025,137.00,kt
+Energy demand by technology,Copper,Grid battery storage,World,component,Current Policies scenario,2030,180.00,kt
+Energy demand by technology,Copper,Grid battery storage,World,component,Current Policies scenario,2035,292.00,kt
+Energy demand by technology,Copper,Grid battery storage,World,component,Current Policies scenario,2040,369.00,kt
+Energy demand by technology,Copper,Grid battery storage,World,component,Current Policies scenario,2045,463.00,kt
+Energy demand by technology,Copper,Grid battery storage,World,component,Current Policies scenario,2050,512.00,kt
+Energy demand by technology,Copper,Grid battery storage,World,component,Stated Policies scenario,2030,218.00,kt
+Energy demand by technology,Copper,Grid battery storage,World,component,Stated Policies scenario,2035,350.00,kt
+Energy demand by technology,Copper,Grid battery storage,World,component,Stated Policies scenario,2040,460.00,kt
+Energy demand by technology,Copper,Grid battery storage,World,component,Stated Policies scenario,2045,565.00,kt
+Energy demand by technology,Copper,Grid battery storage,World,component,Stated Policies scenario,2050,642.00,kt
+Energy demand by technology,Copper,Grid battery storage,World,component,High Demand Scenario,2030,281.00,kt
+Energy demand by technology,Copper,Grid battery storage,World,component,High Demand Scenario,2035,441.00,kt
+Energy demand by technology,Copper,Grid battery storage,World,component,High Demand Scenario,2040,610.00,kt
+Energy demand by technology,Copper,Grid battery storage,World,component,High Demand Scenario,2045,732.00,kt
+Energy demand by technology,Copper,Grid battery storage,World,component,High Demand Scenario,2050,859.00,kt
+Energy demand by technology,Copper,Electricity networks,World,component,Base year (all scenarios),2025,"4,544.00",kt
+Energy demand by technology,Copper,Electricity networks,World,component,Current Policies scenario,2030,"5,637.00",kt
+Energy demand by technology,Copper,Electricity networks,World,component,Current Policies scenario,2035,"6,398.00",kt
+Energy demand by technology,Copper,Electricity networks,World,component,Current Policies scenario,2040,"6,693.00",kt
+Energy demand by technology,Copper,Electricity networks,World,component,Current Policies scenario,2045,"6,572.00",kt
+Energy demand by technology,Copper,Electricity networks,World,component,Current Policies scenario,2050,"6,430.00",kt
+Energy demand by technology,Copper,Electricity networks,World,component,Stated Policies scenario,2030,"5,713.00",kt
+Energy demand by technology,Copper,Electricity networks,World,component,Stated Policies scenario,2035,"6,449.00",kt
+Energy demand by technology,Copper,Electricity networks,World,component,Stated Policies scenario,2040,"6,631.00",kt
+Energy demand by technology,Copper,Electricity networks,World,component,Stated Policies scenario,2045,"6,484.00",kt
+Energy demand by technology,Copper,Electricity networks,World,component,Stated Policies scenario,2050,"6,316.00",kt
+Energy demand by technology,Copper,Electricity networks,World,component,High Demand Scenario,2030,"6,002.00",kt
+Energy demand by technology,Copper,Electricity networks,World,component,High Demand Scenario,2035,"6,924.00",kt
+Energy demand by technology,Copper,Electricity networks,World,component,High Demand Scenario,2040,"7,181.00",kt
+Energy demand by technology,Copper,Electricity networks,World,component,High Demand Scenario,2045,"6,987.00",kt
+Energy demand by technology,Copper,Electricity networks,World,component,High Demand Scenario,2050,"6,815.00",kt
+Energy demand by technology,Copper,Hydrogen technologies,World,component,Base year (all scenarios),2025,0.01,kt
+Energy demand by technology,Copper,Hydrogen technologies,World,component,Current Policies scenario,2030,0.01,kt
+Energy demand by technology,Copper,Hydrogen technologies,World,component,Current Policies scenario,2035,0.01,kt
+Energy demand by technology,Copper,Hydrogen technologies,World,component,Current Policies scenario,2040,0.01,kt
+Energy demand by technology,Copper,Hydrogen technologies,World,component,Current Policies scenario,2045,0.01,kt
+Energy demand by technology,Copper,Hydrogen technologies,World,component,Current Policies scenario,2050,0.01,kt
+Energy demand by technology,Copper,Hydrogen technologies,World,component,Stated Policies scenario,2030,0.01,kt
+Energy demand by technology,Copper,Hydrogen technologies,World,component,Stated Policies scenario,2035,0.01,kt
+Energy demand by technology,Copper,Hydrogen technologies,World,component,Stated Policies scenario,2040,0.01,kt
+Energy demand by technology,Copper,Hydrogen technologies,World,component,Stated Policies scenario,2045,0.01,kt
+Energy demand by technology,Copper,Hydrogen technologies,World,component,Stated Policies scenario,2050,0.01,kt
+Energy demand by technology,Copper,Hydrogen technologies,World,component,High Demand Scenario,2030,0.08,kt
+Energy demand by technology,Copper,Hydrogen technologies,World,component,High Demand Scenario,2035,0.08,kt
+Energy demand by technology,Copper,Hydrogen technologies,World,component,High Demand Scenario,2040,0.08,kt
+Energy demand by technology,Copper,Hydrogen technologies,World,component,High Demand Scenario,2045,0.12,kt
+Energy demand by technology,Copper,Hydrogen technologies,World,component,High Demand Scenario,2050,0.16,kt
+Energy demand by technology,Copper,Total,World,total,Base year (all scenarios),2025,"8,003.00",kt
+Energy demand by technology,Copper,Total,World,total,Current Policies scenario,2030,"10,232.00",kt
+Energy demand by technology,Copper,Total,World,total,Current Policies scenario,2035,"11,296.00",kt
+Energy demand by technology,Copper,Total,World,total,Current Policies scenario,2040,"11,822.00",kt
+Energy demand by technology,Copper,Total,World,total,Current Policies scenario,2045,"12,081.00",kt
+Energy demand by technology,Copper,Total,World,total,Current Policies scenario,2050,"12,174.00",kt
+Energy demand by technology,Copper,Total,World,total,Stated Policies scenario,2030,"10,765.00",kt
+Energy demand by technology,Copper,Total,World,total,Stated Policies scenario,2035,"12,364.00",kt
+Energy demand by technology,Copper,Total,World,total,Stated Policies scenario,2040,"13,073.00",kt
+Energy demand by technology,Copper,Total,World,total,Stated Policies scenario,2045,"13,362.00",kt
+Energy demand by technology,Copper,Total,World,total,Stated Policies scenario,2050,"13,559.00",kt
+Energy demand by technology,Copper,Total,World,total,High Demand Scenario,2030,"12,302.00",kt
+Energy demand by technology,Copper,Total,World,total,High Demand Scenario,2035,"14,552.00",kt
+Energy demand by technology,Copper,Total,World,total,High Demand Scenario,2040,"15,668.00",kt
+Energy demand by technology,Copper,Total,World,total,High Demand Scenario,2045,"15,828.00",kt
+Energy demand by technology,Copper,Total,World,total,High Demand Scenario,2050,"16,572.00",kt
+Energy demand by technology,Cobalt,Low emissions power generation,World,component,Base year (all scenarios),2025,0.01,kt
+Energy demand by technology,Cobalt,Low emissions power generation,World,component,Current Policies scenario,2030,0.03,kt
+Energy demand by technology,Cobalt,Low emissions power generation,World,component,Current Policies scenario,2035,0.01,kt
+Energy demand by technology,Cobalt,Low emissions power generation,World,component,Current Policies scenario,2040,0.01,kt
+Energy demand by technology,Cobalt,Low emissions power generation,World,component,Current Policies scenario,2045,0.01,kt
+Energy demand by technology,Cobalt,Low emissions power generation,World,component,Current Policies scenario,2050,0.02,kt
+Energy demand by technology,Cobalt,Low emissions power generation,World,component,Stated Policies scenario,2030,0.03,kt
+Energy demand by technology,Cobalt,Low emissions power generation,World,component,Stated Policies scenario,2035,0.01,kt
+Energy demand by technology,Cobalt,Low emissions power generation,World,component,Stated Policies scenario,2040,0.01,kt
+Energy demand by technology,Cobalt,Low emissions power generation,World,component,Stated Policies scenario,2045,0.01,kt
+Energy demand by technology,Cobalt,Low emissions power generation,World,component,Stated Policies scenario,2050,0.02,kt
+Energy demand by technology,Cobalt,Low emissions power generation,World,component,High Demand Scenario,2030,0.04,kt
+Energy demand by technology,Cobalt,Low emissions power generation,World,component,High Demand Scenario,2035,0.03,kt
+Energy demand by technology,Cobalt,Low emissions power generation,World,component,High Demand Scenario,2040,0.03,kt
+Energy demand by technology,Cobalt,Low emissions power generation,World,component,High Demand Scenario,2045,0.02,kt
+Energy demand by technology,Cobalt,Low emissions power generation,World,component,High Demand Scenario,2050,0.03,kt
+Energy demand by technology,Cobalt,Electric vehicles,World,component,Base year (all scenarios),2025,84.50,kt
+Energy demand by technology,Cobalt,Electric vehicles,World,component,Current Policies scenario,2030,119.00,kt
+Energy demand by technology,Cobalt,Electric vehicles,World,component,Current Policies scenario,2035,116.00,kt
+Energy demand by technology,Cobalt,Electric vehicles,World,component,Current Policies scenario,2040,109.00,kt
+Energy demand by technology,Cobalt,Electric vehicles,World,component,Current Policies scenario,2045,118.00,kt
+Energy demand by technology,Cobalt,Electric vehicles,World,component,Current Policies scenario,2050,118.00,kt
+Energy demand by technology,Cobalt,Electric vehicles,World,component,Stated Policies scenario,2030,130.00,kt
+Energy demand by technology,Cobalt,Electric vehicles,World,component,Stated Policies scenario,2035,137.00,kt
+Energy demand by technology,Cobalt,Electric vehicles,World,component,Stated Policies scenario,2040,139.00,kt
+Energy demand by technology,Cobalt,Electric vehicles,World,component,Stated Policies scenario,2045,160.00,kt
+Energy demand by technology,Cobalt,Electric vehicles,World,component,Stated Policies scenario,2050,167.00,kt
+Energy demand by technology,Cobalt,Electric vehicles,World,component,High Demand Scenario,2030,147.00,kt
+Energy demand by technology,Cobalt,Electric vehicles,World,component,High Demand Scenario,2035,173.00,kt
+Energy demand by technology,Cobalt,Electric vehicles,World,component,High Demand Scenario,2040,190.00,kt
+Energy demand by technology,Cobalt,Electric vehicles,World,component,High Demand Scenario,2045,219.00,kt
+Energy demand by technology,Cobalt,Electric vehicles,World,component,High Demand Scenario,2050,233.00,kt
+Energy demand by technology,Cobalt,Grid battery storage,World,component,Base year (all scenarios),2025,5.92,kt
+Energy demand by technology,Cobalt,Grid battery storage,World,component,Current Policies scenario,2030,3.83,kt
+Energy demand by technology,Cobalt,Grid battery storage,World,component,Current Policies scenario,2035,2.93,kt
+Energy demand by technology,Cobalt,Grid battery storage,World,component,Current Policies scenario,2040,0.00,kt
+Energy demand by technology,Cobalt,Grid battery storage,World,component,Current Policies scenario,2045,0.00,kt
+Energy demand by technology,Cobalt,Grid battery storage,World,component,Current Policies scenario,2050,0.00,kt
+Energy demand by technology,Cobalt,Grid battery storage,World,component,Stated Policies scenario,2030,4.64,kt
+Energy demand by technology,Cobalt,Grid battery storage,World,component,Stated Policies scenario,2035,3.50,kt
+Energy demand by technology,Cobalt,Grid battery storage,World,component,Stated Policies scenario,2040,0.00,kt
+Energy demand by technology,Cobalt,Grid battery storage,World,component,Stated Policies scenario,2045,0.00,kt
+Energy demand by technology,Cobalt,Grid battery storage,World,component,Stated Policies scenario,2050,0.00,kt
+Energy demand by technology,Cobalt,Grid battery storage,World,component,High Demand Scenario,2030,5.98,kt
+Energy demand by technology,Cobalt,Grid battery storage,World,component,High Demand Scenario,2035,4.41,kt
+Energy demand by technology,Cobalt,Grid battery storage,World,component,High Demand Scenario,2040,0.00,kt
+Energy demand by technology,Cobalt,Grid battery storage,World,component,High Demand Scenario,2045,0.00,kt
+Energy demand by technology,Cobalt,Grid battery storage,World,component,High Demand Scenario,2050,0.00,kt
+Energy demand by technology,Cobalt,Hydrogen technologies,World,component,Base year (all scenarios),2025,0.01,kt
+Energy demand by technology,Cobalt,Hydrogen technologies,World,component,Current Policies scenario,2030,0.00,kt
+Energy demand by technology,Cobalt,Hydrogen technologies,World,component,Current Policies scenario,2035,0.00,kt
+Energy demand by technology,Cobalt,Hydrogen technologies,World,component,Current Policies scenario,2040,0.00,kt
+Energy demand by technology,Cobalt,Hydrogen technologies,World,component,Current Policies scenario,2045,0.00,kt
+Energy demand by technology,Cobalt,Hydrogen technologies,World,component,Current Policies scenario,2050,0.00,kt
+Energy demand by technology,Cobalt,Hydrogen technologies,World,component,Stated Policies scenario,2030,0.00,kt
+Energy demand by technology,Cobalt,Hydrogen technologies,World,component,Stated Policies scenario,2035,0.00,kt
+Energy demand by technology,Cobalt,Hydrogen technologies,World,component,Stated Policies scenario,2040,0.00,kt
+Energy demand by technology,Cobalt,Hydrogen technologies,World,component,Stated Policies scenario,2045,0.00,kt
+Energy demand by technology,Cobalt,Hydrogen technologies,World,component,Stated Policies scenario,2050,0.00,kt
+Energy demand by technology,Cobalt,Hydrogen technologies,World,component,High Demand Scenario,2030,0.03,kt
+Energy demand by technology,Cobalt,Hydrogen technologies,World,component,High Demand Scenario,2035,0.03,kt
+Energy demand by technology,Cobalt,Hydrogen technologies,World,component,High Demand Scenario,2040,0.03,kt
+Energy demand by technology,Cobalt,Hydrogen technologies,World,component,High Demand Scenario,2045,0.04,kt
+Energy demand by technology,Cobalt,Hydrogen technologies,World,component,High Demand Scenario,2050,0.06,kt
+Energy demand by technology,Cobalt,Total,World,total,Base year (all scenarios),2025,90.40,kt
+Energy demand by technology,Cobalt,Total,World,total,Current Policies scenario,2030,123.00,kt
+Energy demand by technology,Cobalt,Total,World,total,Current Policies scenario,2035,119.00,kt
+Energy demand by technology,Cobalt,Total,World,total,Current Policies scenario,2040,109.00,kt
+Energy demand by technology,Cobalt,Total,World,total,Current Policies scenario,2045,118.00,kt
+Energy demand by technology,Cobalt,Total,World,total,Current Policies scenario,2050,118.00,kt
+Energy demand by technology,Cobalt,Total,World,total,Stated Policies scenario,2030,134.00,kt
+Energy demand by technology,Cobalt,Total,World,total,Stated Policies scenario,2035,141.00,kt
+Energy demand by technology,Cobalt,Total,World,total,Stated Policies scenario,2040,139.00,kt
+Energy demand by technology,Cobalt,Total,World,total,Stated Policies scenario,2045,160.00,kt
+Energy demand by technology,Cobalt,Total,World,total,Stated Policies scenario,2050,167.00,kt
+Energy demand by technology,Cobalt,Total,World,total,High Demand Scenario,2030,153.00,kt
+Energy demand by technology,Cobalt,Total,World,total,High Demand Scenario,2035,177.00,kt
+Energy demand by technology,Cobalt,Total,World,total,High Demand Scenario,2040,190.00,kt
+Energy demand by technology,Cobalt,Total,World,total,High Demand Scenario,2045,219.00,kt
+Energy demand by technology,Cobalt,Total,World,total,High Demand Scenario,2050,233.00,kt
+Energy demand by technology,Battery-grade graphite,Electric vehicles,World,component,Base year (all scenarios),2025,"1,199.00",kt
+Energy demand by technology,Battery-grade graphite,Electric vehicles,World,component,Current Policies scenario,2030,"2,606.00",kt
+Energy demand by technology,Battery-grade graphite,Electric vehicles,World,component,Current Policies scenario,2035,"3,222.00",kt
+Energy demand by technology,Battery-grade graphite,Electric vehicles,World,component,Current Policies scenario,2040,"2,779.00",kt
+Energy demand by technology,Battery-grade graphite,Electric vehicles,World,component,Current Policies scenario,2045,"1,995.00",kt
+Energy demand by technology,Battery-grade graphite,Electric vehicles,World,component,Current Policies scenario,2050,"1,530.00",kt
+Energy demand by technology,Battery-grade graphite,Electric vehicles,World,component,Stated Policies scenario,2030,"2,809.00",kt
+Energy demand by technology,Battery-grade graphite,Electric vehicles,World,component,Stated Policies scenario,2035,"3,795.00",kt
+Energy demand by technology,Battery-grade graphite,Electric vehicles,World,component,Stated Policies scenario,2040,"3,544.00",kt
+Energy demand by technology,Battery-grade graphite,Electric vehicles,World,component,Stated Policies scenario,2045,"2,724.00",kt
+Energy demand by technology,Battery-grade graphite,Electric vehicles,World,component,Stated Policies scenario,2050,"2,217.00",kt
+Energy demand by technology,Battery-grade graphite,Electric vehicles,World,component,High Demand Scenario,2030,"3,113.00",kt
+Energy demand by technology,Battery-grade graphite,Electric vehicles,World,component,High Demand Scenario,2035,"4,711.00",kt
+Energy demand by technology,Battery-grade graphite,Electric vehicles,World,component,High Demand Scenario,2040,"4,793.00",kt
+Energy demand by technology,Battery-grade graphite,Electric vehicles,World,component,High Demand Scenario,2045,"3,726.00",kt
+Energy demand by technology,Battery-grade graphite,Electric vehicles,World,component,High Demand Scenario,2050,"3,086.00",kt
+Energy demand by technology,Battery-grade graphite,Grid battery storage,World,component,Base year (all scenarios),2025,263.00,kt
+Energy demand by technology,Battery-grade graphite,Grid battery storage,World,component,Current Policies scenario,2030,311.00,kt
+Energy demand by technology,Battery-grade graphite,Grid battery storage,World,component,Current Policies scenario,2035,453.00,kt
+Energy demand by technology,Battery-grade graphite,Grid battery storage,World,component,Current Policies scenario,2040,515.00,kt
+Energy demand by technology,Battery-grade graphite,Grid battery storage,World,component,Current Policies scenario,2045,611.00,kt
+Energy demand by technology,Battery-grade graphite,Grid battery storage,World,component,Current Policies scenario,2050,636.00,kt
+Energy demand by technology,Battery-grade graphite,Grid battery storage,World,component,Stated Policies scenario,2030,373.00,kt
+Energy demand by technology,Battery-grade graphite,Grid battery storage,World,component,Stated Policies scenario,2035,524.00,kt
+Energy demand by technology,Battery-grade graphite,Grid battery storage,World,component,Stated Policies scenario,2040,642.00,kt
+Energy demand by technology,Battery-grade graphite,Grid battery storage,World,component,Stated Policies scenario,2045,729.00,kt
+Energy demand by technology,Battery-grade graphite,Grid battery storage,World,component,Stated Policies scenario,2050,798.00,kt
+Energy demand by technology,Battery-grade graphite,Grid battery storage,World,component,High Demand Scenario,2030,444.00,kt
+Energy demand by technology,Battery-grade graphite,Grid battery storage,World,component,High Demand Scenario,2035,602.00,kt
+Energy demand by technology,Battery-grade graphite,Grid battery storage,World,component,High Demand Scenario,2040,854.00,kt
+Energy demand by technology,Battery-grade graphite,Grid battery storage,World,component,High Demand Scenario,2045,882.00,kt
+Energy demand by technology,Battery-grade graphite,Grid battery storage,World,component,High Demand Scenario,2050,"1,067.00",kt
+Energy demand by technology,Battery-grade graphite,Total,World,total,Base year (all scenarios),2025,"1,462.00",kt
+Energy demand by technology,Battery-grade graphite,Total,World,total,Current Policies scenario,2030,"2,917.00",kt
+Energy demand by technology,Battery-grade graphite,Total,World,total,Current Policies scenario,2035,"3,675.00",kt
+Energy demand by technology,Battery-grade graphite,Total,World,total,Current Policies scenario,2040,"3,295.00",kt
+Energy demand by technology,Battery-grade graphite,Total,World,total,Current Policies scenario,2045,"2,606.00",kt
+Energy demand by technology,Battery-grade graphite,Total,World,total,Current Policies scenario,2050,"2,166.00",kt
+Energy demand by technology,Battery-grade graphite,Total,World,total,Stated Policies scenario,2030,"3,182.00",kt
+Energy demand by technology,Battery-grade graphite,Total,World,total,Stated Policies scenario,2035,"4,318.00",kt
+Energy demand by technology,Battery-grade graphite,Total,World,total,Stated Policies scenario,2040,"4,186.00",kt
+Energy demand by technology,Battery-grade graphite,Total,World,total,Stated Policies scenario,2045,"3,452.00",kt
+Energy demand by technology,Battery-grade graphite,Total,World,total,Stated Policies scenario,2050,"3,014.00",kt
+Energy demand by technology,Battery-grade graphite,Total,World,total,High Demand Scenario,2030,"3,556.00",kt
+Energy demand by technology,Battery-grade graphite,Total,World,total,High Demand Scenario,2035,"5,313.00",kt
+Energy demand by technology,Battery-grade graphite,Total,World,total,High Demand Scenario,2040,"5,647.00",kt
+Energy demand by technology,Battery-grade graphite,Total,World,total,High Demand Scenario,2045,"4,608.00",kt
+Energy demand by technology,Battery-grade graphite,Total,World,total,High Demand Scenario,2050,"4,153.00",kt
+Energy demand by technology,Lithium,Electric vehicles,World,component,Base year (all scenarios),2025,171.00,kt
+Energy demand by technology,Lithium,Electric vehicles,World,component,Current Policies scenario,2030,333.00,kt
+Energy demand by technology,Lithium,Electric vehicles,World,component,Current Policies scenario,2035,478.00,kt
+Energy demand by technology,Lithium,Electric vehicles,World,component,Current Policies scenario,2040,594.00,kt
+Energy demand by technology,Lithium,Electric vehicles,World,component,Current Policies scenario,2045,641.00,kt
+Energy demand by technology,Lithium,Electric vehicles,World,component,Current Policies scenario,2050,636.00,kt
+Energy demand by technology,Lithium,Electric vehicles,World,component,Stated Policies scenario,2030,365.00,kt
+Energy demand by technology,Lithium,Electric vehicles,World,component,Stated Policies scenario,2035,572.00,kt
+Energy demand by technology,Lithium,Electric vehicles,World,component,Stated Policies scenario,2040,765.00,kt
+Energy demand by technology,Lithium,Electric vehicles,World,component,Stated Policies scenario,2045,876.00,kt
+Energy demand by technology,Lithium,Electric vehicles,World,component,Stated Policies scenario,2050,911.00,kt
+Energy demand by technology,Lithium,Electric vehicles,World,component,High Demand Scenario,2030,416.00,kt
+Energy demand by technology,Lithium,Electric vehicles,World,component,High Demand Scenario,2035,720.00,kt
+Energy demand by technology,Lithium,Electric vehicles,World,component,High Demand Scenario,2040,"1,037.00",kt
+Energy demand by technology,Lithium,Electric vehicles,World,component,High Demand Scenario,2045,"1,194.00",kt
+Energy demand by technology,Lithium,Electric vehicles,World,component,High Demand Scenario,2050,"1,260.00",kt
+Energy demand by technology,Lithium,Grid battery storage,World,component,Base year (all scenarios),2025,31.80,kt
+Energy demand by technology,Lithium,Grid battery storage,World,component,Current Policies scenario,2030,34.80,kt
+Energy demand by technology,Lithium,Grid battery storage,World,component,Current Policies scenario,2035,49.80,kt
+Energy demand by technology,Lithium,Grid battery storage,World,component,Current Policies scenario,2040,57.20,kt
+Energy demand by technology,Lithium,Grid battery storage,World,component,Current Policies scenario,2045,68.60,kt
+Energy demand by technology,Lithium,Grid battery storage,World,component,Current Policies scenario,2050,72.00,kt
+Energy demand by technology,Lithium,Grid battery storage,World,component,Stated Policies scenario,2030,42.10,kt
+Energy demand by technology,Lithium,Grid battery storage,World,component,Stated Policies scenario,2035,59.60,kt
+Energy demand by technology,Lithium,Grid battery storage,World,component,Stated Policies scenario,2040,71.20,kt
+Energy demand by technology,Lithium,Grid battery storage,World,component,Stated Policies scenario,2045,83.80,kt
+Energy demand by technology,Lithium,Grid battery storage,World,component,Stated Policies scenario,2050,90.30,kt
+Energy demand by technology,Lithium,Grid battery storage,World,component,High Demand Scenario,2030,54.20,kt
+Energy demand by technology,Lithium,Grid battery storage,World,component,High Demand Scenario,2035,75.10,kt
+Energy demand by technology,Lithium,Grid battery storage,World,component,High Demand Scenario,2040,94.40,kt
+Energy demand by technology,Lithium,Grid battery storage,World,component,High Demand Scenario,2045,109.00,kt
+Energy demand by technology,Lithium,Grid battery storage,World,component,High Demand Scenario,2050,121.00,kt
+Energy demand by technology,Lithium,Total,World,total,Base year (all scenarios),2025,203.00,kt
+Energy demand by technology,Lithium,Total,World,total,Current Policies scenario,2030,368.00,kt
+Energy demand by technology,Lithium,Total,World,total,Current Policies scenario,2035,528.00,kt
+Energy demand by technology,Lithium,Total,World,total,Current Policies scenario,2040,652.00,kt
+Energy demand by technology,Lithium,Total,World,total,Current Policies scenario,2045,710.00,kt
+Energy demand by technology,Lithium,Total,World,total,Current Policies scenario,2050,708.00,kt
+Energy demand by technology,Lithium,Total,World,total,Stated Policies scenario,2030,407.00,kt
+Energy demand by technology,Lithium,Total,World,total,Stated Policies scenario,2035,632.00,kt
+Energy demand by technology,Lithium,Total,World,total,Stated Policies scenario,2040,836.00,kt
+Energy demand by technology,Lithium,Total,World,total,Stated Policies scenario,2045,960.00,kt
+Energy demand by technology,Lithium,Total,World,total,Stated Policies scenario,2050,"1,002.00",kt
+Energy demand by technology,Lithium,Total,World,total,High Demand Scenario,2030,470.00,kt
+Energy demand by technology,Lithium,Total,World,total,High Demand Scenario,2035,795.00,kt
+Energy demand by technology,Lithium,Total,World,total,High Demand Scenario,2040,"1,131.00",kt
+Energy demand by technology,Lithium,Total,World,total,High Demand Scenario,2045,"1,302.00",kt
+Energy demand by technology,Lithium,Total,World,total,High Demand Scenario,2050,"1,381.00",kt
+Energy demand by technology,Manganese,Wind,World,component,Base year (all scenarios),2025,113.00,kt
+Energy demand by technology,Manganese,Wind,World,component,Current Policies scenario,2030,131.00,kt
+Energy demand by technology,Manganese,Wind,World,component,Current Policies scenario,2035,113.00,kt
+Energy demand by technology,Manganese,Wind,World,component,Current Policies scenario,2040,101.00,kt
+Energy demand by technology,Manganese,Wind,World,component,Current Policies scenario,2045,116.00,kt
+Energy demand by technology,Manganese,Wind,World,component,Current Policies scenario,2050,134.00,kt
+Energy demand by technology,Manganese,Wind,World,component,Stated Policies scenario,2030,150.00,kt
+Energy demand by technology,Manganese,Wind,World,component,Stated Policies scenario,2035,130.00,kt
+Energy demand by technology,Manganese,Wind,World,component,Stated Policies scenario,2040,111.00,kt
+Energy demand by technology,Manganese,Wind,World,component,Stated Policies scenario,2045,124.00,kt
+Energy demand by technology,Manganese,Wind,World,component,Stated Policies scenario,2050,148.00,kt
+Energy demand by technology,Manganese,Wind,World,component,High Demand Scenario,2030,209.00,kt
+Energy demand by technology,Manganese,Wind,World,component,High Demand Scenario,2035,191.00,kt
+Energy demand by technology,Manganese,Wind,World,component,High Demand Scenario,2040,169.00,kt
+Energy demand by technology,Manganese,Wind,World,component,High Demand Scenario,2045,176.00,kt
+Energy demand by technology,Manganese,Wind,World,component,High Demand Scenario,2050,239.00,kt
+Energy demand by technology,Manganese,Other low emissions power generation,World,component,Base year (all scenarios),2025,11.90,kt
+Energy demand by technology,Manganese,Other low emissions power generation,World,component,Current Policies scenario,2030,23.60,kt
+Energy demand by technology,Manganese,Other low emissions power generation,World,component,Current Policies scenario,2035,33.10,kt
+Energy demand by technology,Manganese,Other low emissions power generation,World,component,Current Policies scenario,2040,35.40,kt
+Energy demand by technology,Manganese,Other low emissions power generation,World,component,Current Policies scenario,2045,36.30,kt
+Energy demand by technology,Manganese,Other low emissions power generation,World,component,Current Policies scenario,2050,35.20,kt
+Energy demand by technology,Manganese,Other low emissions power generation,World,component,Stated Policies scenario,2030,25.10,kt
+Energy demand by technology,Manganese,Other low emissions power generation,World,component,Stated Policies scenario,2035,35.20,kt
+Energy demand by technology,Manganese,Other low emissions power generation,World,component,Stated Policies scenario,2040,37.90,kt
+Energy demand by technology,Manganese,Other low emissions power generation,World,component,Stated Policies scenario,2045,38.90,kt
+Energy demand by technology,Manganese,Other low emissions power generation,World,component,Stated Policies scenario,2050,37.50,kt
+Energy demand by technology,Manganese,Other low emissions power generation,World,component,High Demand Scenario,2030,40.70,kt
+Energy demand by technology,Manganese,Other low emissions power generation,World,component,High Demand Scenario,2035,69.80,kt
+Energy demand by technology,Manganese,Other low emissions power generation,World,component,High Demand Scenario,2040,76.20,kt
+Energy demand by technology,Manganese,Other low emissions power generation,World,component,High Demand Scenario,2045,77.30,kt
+Energy demand by technology,Manganese,Other low emissions power generation,World,component,High Demand Scenario,2050,67.10,kt
+Energy demand by technology,Manganese,Electric vehicles,World,component,Base year (all scenarios),2025,59.90,kt
+Energy demand by technology,Manganese,Electric vehicles,World,component,Current Policies scenario,2030,353.00,kt
+Energy demand by technology,Manganese,Electric vehicles,World,component,Current Policies scenario,2035,754.00,kt
+Energy demand by technology,Manganese,Electric vehicles,World,component,Current Policies scenario,2040,"1,197.00",kt
+Energy demand by technology,Manganese,Electric vehicles,World,component,Current Policies scenario,2045,"1,564.00",kt
+Energy demand by technology,Manganese,Electric vehicles,World,component,Current Policies scenario,2050,"1,707.00",kt
+Energy demand by technology,Manganese,Electric vehicles,World,component,Stated Policies scenario,2030,309.00,kt
+Energy demand by technology,Manganese,Electric vehicles,World,component,Stated Policies scenario,2035,787.00,kt
+Energy demand by technology,Manganese,Electric vehicles,World,component,Stated Policies scenario,2040,"1,416.00",kt
+Energy demand by technology,Manganese,Electric vehicles,World,component,Stated Policies scenario,2045,"2,056.00",kt
+Energy demand by technology,Manganese,Electric vehicles,World,component,Stated Policies scenario,2050,"2,438.00",kt
+Energy demand by technology,Manganese,Electric vehicles,World,component,High Demand Scenario,2030,342.00,kt
+Energy demand by technology,Manganese,Electric vehicles,World,component,High Demand Scenario,2035,972.00,kt
+Energy demand by technology,Manganese,Electric vehicles,World,component,High Demand Scenario,2040,"1,906.00",kt
+Energy demand by technology,Manganese,Electric vehicles,World,component,High Demand Scenario,2045,"2,785.00",kt
+Energy demand by technology,Manganese,Electric vehicles,World,component,High Demand Scenario,2050,"3,353.00",kt
+Energy demand by technology,Manganese,Grid battery storage,World,component,Base year (all scenarios),2025,6.88,kt
+Energy demand by technology,Manganese,Grid battery storage,World,component,Current Policies scenario,2030,62.30,kt
+Energy demand by technology,Manganese,Grid battery storage,World,component,Current Policies scenario,2035,139.00,kt
+Energy demand by technology,Manganese,Grid battery storage,World,component,Current Policies scenario,2040,221.00,kt
+Energy demand by technology,Manganese,Grid battery storage,World,component,Current Policies scenario,2045,324.00,kt
+Energy demand by technology,Manganese,Grid battery storage,World,component,Current Policies scenario,2050,420.00,kt
+Energy demand by technology,Manganese,Grid battery storage,World,component,Stated Policies scenario,2030,69.10,kt
+Energy demand by technology,Manganese,Grid battery storage,World,component,Stated Policies scenario,2035,150.00,kt
+Energy demand by technology,Manganese,Grid battery storage,World,component,Stated Policies scenario,2040,262.00,kt
+Energy demand by technology,Manganese,Grid battery storage,World,component,Stated Policies scenario,2045,370.00,kt
+Energy demand by technology,Manganese,Grid battery storage,World,component,Stated Policies scenario,2050,527.00,kt
+Energy demand by technology,Manganese,Grid battery storage,World,component,High Demand Scenario,2030,82.20,kt
+Energy demand by technology,Manganese,Grid battery storage,World,component,High Demand Scenario,2035,172.00,kt
+Energy demand by technology,Manganese,Grid battery storage,World,component,High Demand Scenario,2040,348.00,kt
+Energy demand by technology,Manganese,Grid battery storage,World,component,High Demand Scenario,2045,448.00,kt
+Energy demand by technology,Manganese,Grid battery storage,World,component,High Demand Scenario,2050,705.00,kt
+Energy demand by technology,Manganese,Total,World,total,Base year (all scenarios),2025,197.00,kt
+Energy demand by technology,Manganese,Total,World,total,Current Policies scenario,2030,574.00,kt
+Energy demand by technology,Manganese,Total,World,total,Current Policies scenario,2035,"1,045.00",kt
+Energy demand by technology,Manganese,Total,World,total,Current Policies scenario,2040,"1,560.00",kt
+Energy demand by technology,Manganese,Total,World,total,Current Policies scenario,2045,"2,046.00",kt
+Energy demand by technology,Manganese,Total,World,total,Current Policies scenario,2050,"2,303.00",kt
+Energy demand by technology,Manganese,Total,World,total,Stated Policies scenario,2030,559.00,kt
+Energy demand by technology,Manganese,Total,World,total,Stated Policies scenario,2035,"1,109.00",kt
+Energy demand by technology,Manganese,Total,World,total,Stated Policies scenario,2040,"1,834.00",kt
+Energy demand by technology,Manganese,Total,World,total,Stated Policies scenario,2045,"2,598.00",kt
+Energy demand by technology,Manganese,Total,World,total,Stated Policies scenario,2050,"3,160.00",kt
+Energy demand by technology,Manganese,Total,World,total,High Demand Scenario,2030,679.00,kt
+Energy demand by technology,Manganese,Total,World,total,High Demand Scenario,2035,"1,414.00",kt
+Energy demand by technology,Manganese,Total,World,total,High Demand Scenario,2040,"2,509.00",kt
+Energy demand by technology,Manganese,Total,World,total,High Demand Scenario,2045,"3,497.00",kt
+Energy demand by technology,Manganese,Total,World,total,High Demand Scenario,2050,"4,376.00",kt
+Energy demand by technology,Molybdenum,Solar PV,World,component,Base year (all scenarios),2025,0.45,kt
+Energy demand by technology,Molybdenum,Solar PV,World,component,Current Policies scenario,2030,0.49,kt
+Energy demand by technology,Molybdenum,Solar PV,World,component,Current Policies scenario,2035,0.42,kt
+Energy demand by technology,Molybdenum,Solar PV,World,component,Current Policies scenario,2040,0.43,kt
+Energy demand by technology,Molybdenum,Solar PV,World,component,Current Policies scenario,2045,0.45,kt
+Energy demand by technology,Molybdenum,Solar PV,World,component,Current Policies scenario,2050,0.44,kt
+Energy demand by technology,Molybdenum,Solar PV,World,component,Stated Policies scenario,2030,0.53,kt
+Energy demand by technology,Molybdenum,Solar PV,World,component,Stated Policies scenario,2035,0.52,kt
+Energy demand by technology,Molybdenum,Solar PV,World,component,Stated Policies scenario,2040,0.54,kt
+Energy demand by technology,Molybdenum,Solar PV,World,component,Stated Policies scenario,2045,0.50,kt
+Energy demand by technology,Molybdenum,Solar PV,World,component,Stated Policies scenario,2050,0.47,kt
+Energy demand by technology,Molybdenum,Solar PV,World,component,High Demand Scenario,2030,0.64,kt
+Energy demand by technology,Molybdenum,Solar PV,World,component,High Demand Scenario,2035,0.61,kt
+Energy demand by technology,Molybdenum,Solar PV,World,component,High Demand Scenario,2040,0.57,kt
+Energy demand by technology,Molybdenum,Solar PV,World,component,High Demand Scenario,2045,0.46,kt
+Energy demand by technology,Molybdenum,Solar PV,World,component,High Demand Scenario,2050,0.45,kt
+Energy demand by technology,Molybdenum,Wind,World,component,Base year (all scenarios),2025,14.90,kt
+Energy demand by technology,Molybdenum,Wind,World,component,Current Policies scenario,2030,17.20,kt
+Energy demand by technology,Molybdenum,Wind,World,component,Current Policies scenario,2035,15.10,kt
+Energy demand by technology,Molybdenum,Wind,World,component,Current Policies scenario,2040,13.40,kt
+Energy demand by technology,Molybdenum,Wind,World,component,Current Policies scenario,2045,15.50,kt
+Energy demand by technology,Molybdenum,Wind,World,component,Current Policies scenario,2050,17.90,kt
+Energy demand by technology,Molybdenum,Wind,World,component,Stated Policies scenario,2030,19.90,kt
+Energy demand by technology,Molybdenum,Wind,World,component,Stated Policies scenario,2035,17.40,kt
+Energy demand by technology,Molybdenum,Wind,World,component,Stated Policies scenario,2040,14.70,kt
+Energy demand by technology,Molybdenum,Wind,World,component,Stated Policies scenario,2045,16.60,kt
+Energy demand by technology,Molybdenum,Wind,World,component,Stated Policies scenario,2050,19.80,kt
+Energy demand by technology,Molybdenum,Wind,World,component,High Demand Scenario,2030,27.80,kt
+Energy demand by technology,Molybdenum,Wind,World,component,High Demand Scenario,2035,25.40,kt
+Energy demand by technology,Molybdenum,Wind,World,component,High Demand Scenario,2040,22.60,kt
+Energy demand by technology,Molybdenum,Wind,World,component,High Demand Scenario,2045,23.50,kt
+Energy demand by technology,Molybdenum,Wind,World,component,High Demand Scenario,2050,32.00,kt
+Energy demand by technology,Molybdenum,Other low emissions power generation,World,component,Base year (all scenarios),2025,14.80,kt
+Energy demand by technology,Molybdenum,Other low emissions power generation,World,component,Current Policies scenario,2030,27.50,kt
+Energy demand by technology,Molybdenum,Other low emissions power generation,World,component,Current Policies scenario,2035,27.60,kt
+Energy demand by technology,Molybdenum,Other low emissions power generation,World,component,Current Policies scenario,2040,27.60,kt
+Energy demand by technology,Molybdenum,Other low emissions power generation,World,component,Current Policies scenario,2045,29.70,kt
+Energy demand by technology,Molybdenum,Other low emissions power generation,World,component,Current Policies scenario,2050,27.50,kt
+Energy demand by technology,Molybdenum,Other low emissions power generation,World,component,Stated Policies scenario,2030,30.40,kt
+Energy demand by technology,Molybdenum,Other low emissions power generation,World,component,Stated Policies scenario,2035,30.00,kt
+Energy demand by technology,Molybdenum,Other low emissions power generation,World,component,Stated Policies scenario,2040,30.20,kt
+Energy demand by technology,Molybdenum,Other low emissions power generation,World,component,Stated Policies scenario,2045,32.20,kt
+Energy demand by technology,Molybdenum,Other low emissions power generation,World,component,Stated Policies scenario,2050,29.70,kt
+Energy demand by technology,Molybdenum,Other low emissions power generation,World,component,High Demand Scenario,2030,37.40,kt
+Energy demand by technology,Molybdenum,Other low emissions power generation,World,component,High Demand Scenario,2035,32.60,kt
+Energy demand by technology,Molybdenum,Other low emissions power generation,World,component,High Demand Scenario,2040,34.40,kt
+Energy demand by technology,Molybdenum,Other low emissions power generation,World,component,High Demand Scenario,2045,34.90,kt
+Energy demand by technology,Molybdenum,Other low emissions power generation,World,component,High Demand Scenario,2050,41.10,kt
+Energy demand by technology,Molybdenum,Total,World,total,Base year (all scenarios),2025,30.10,kt
+Energy demand by technology,Molybdenum,Total,World,total,Current Policies scenario,2030,45.30,kt
+Energy demand by technology,Molybdenum,Total,World,total,Current Policies scenario,2035,43.10,kt
+Energy demand by technology,Molybdenum,Total,World,total,Current Policies scenario,2040,41.40,kt
+Energy demand by technology,Molybdenum,Total,World,total,Current Policies scenario,2045,45.60,kt
+Energy demand by technology,Molybdenum,Total,World,total,Current Policies scenario,2050,45.80,kt
+Energy demand by technology,Molybdenum,Total,World,total,Stated Policies scenario,2030,50.90,kt
+Energy demand by technology,Molybdenum,Total,World,total,Stated Policies scenario,2035,47.90,kt
+Energy demand by technology,Molybdenum,Total,World,total,Stated Policies scenario,2040,45.50,kt
+Energy demand by technology,Molybdenum,Total,World,total,Stated Policies scenario,2045,49.20,kt
+Energy demand by technology,Molybdenum,Total,World,total,Stated Policies scenario,2050,50.00,kt
+Energy demand by technology,Molybdenum,Total,World,total,High Demand Scenario,2030,65.80,kt
+Energy demand by technology,Molybdenum,Total,World,total,High Demand Scenario,2035,58.60,kt
+Energy demand by technology,Molybdenum,Total,World,total,High Demand Scenario,2040,57.60,kt
+Energy demand by technology,Molybdenum,Total,World,total,High Demand Scenario,2045,58.90,kt
+Energy demand by technology,Molybdenum,Total,World,total,High Demand Scenario,2050,73.60,kt
+Energy demand by technology,Nickel,Solar PV,World,component,Base year (all scenarios),2025,0.72,kt
+Energy demand by technology,Nickel,Solar PV,World,component,Current Policies scenario,2030,0.75,kt
+Energy demand by technology,Nickel,Solar PV,World,component,Current Policies scenario,2035,0.65,kt
+Energy demand by technology,Nickel,Solar PV,World,component,Current Policies scenario,2040,0.65,kt
+Energy demand by technology,Nickel,Solar PV,World,component,Current Policies scenario,2045,0.73,kt
+Energy demand by technology,Nickel,Solar PV,World,component,Current Policies scenario,2050,0.77,kt
+Energy demand by technology,Nickel,Solar PV,World,component,Stated Policies scenario,2030,0.82,kt
+Energy demand by technology,Nickel,Solar PV,World,component,Stated Policies scenario,2035,0.81,kt
+Energy demand by technology,Nickel,Solar PV,World,component,Stated Policies scenario,2040,0.83,kt
+Energy demand by technology,Nickel,Solar PV,World,component,Stated Policies scenario,2045,0.85,kt
+Energy demand by technology,Nickel,Solar PV,World,component,Stated Policies scenario,2050,0.85,kt
+Energy demand by technology,Nickel,Solar PV,World,component,High Demand Scenario,2030,1.04,kt
+Energy demand by technology,Nickel,Solar PV,World,component,High Demand Scenario,2035,1.03,kt
+Energy demand by technology,Nickel,Solar PV,World,component,High Demand Scenario,2040,1.00,kt
+Energy demand by technology,Nickel,Solar PV,World,component,High Demand Scenario,2045,0.92,kt
+Energy demand by technology,Nickel,Solar PV,World,component,High Demand Scenario,2050,1.03,kt
+Energy demand by technology,Nickel,Wind,World,component,Base year (all scenarios),2025,52.10,kt
+Energy demand by technology,Nickel,Wind,World,component,Current Policies scenario,2030,58.80,kt
+Energy demand by technology,Nickel,Wind,World,component,Current Policies scenario,2035,49.20,kt
+Energy demand by technology,Nickel,Wind,World,component,Current Policies scenario,2040,44.90,kt
+Energy demand by technology,Nickel,Wind,World,component,Current Policies scenario,2045,51.90,kt
+Energy demand by technology,Nickel,Wind,World,component,Current Policies scenario,2050,59.30,kt
+Energy demand by technology,Nickel,Wind,World,component,Stated Policies scenario,2030,67.40,kt
+Energy demand by technology,Nickel,Wind,World,component,Stated Policies scenario,2035,56.80,kt
+Energy demand by technology,Nickel,Wind,World,component,Stated Policies scenario,2040,49.30,kt
+Energy demand by technology,Nickel,Wind,World,component,Stated Policies scenario,2045,55.30,kt
+Energy demand by technology,Nickel,Wind,World,component,Stated Policies scenario,2050,65.30,kt
+Energy demand by technology,Nickel,Wind,World,component,High Demand Scenario,2030,91.80,kt
+Energy demand by technology,Nickel,Wind,World,component,High Demand Scenario,2035,84.20,kt
+Energy demand by technology,Nickel,Wind,World,component,High Demand Scenario,2040,74.20,kt
+Energy demand by technology,Nickel,Wind,World,component,High Demand Scenario,2045,75.70,kt
+Energy demand by technology,Nickel,Wind,World,component,High Demand Scenario,2050,102.00,kt
+Energy demand by technology,Nickel,Other low emissions power generation,World,component,Base year (all scenarios),2025,104.00,kt
+Energy demand by technology,Nickel,Other low emissions power generation,World,component,Current Policies scenario,2030,244.00,kt
+Energy demand by technology,Nickel,Other low emissions power generation,World,component,Current Policies scenario,2035,276.00,kt
+Energy demand by technology,Nickel,Other low emissions power generation,World,component,Current Policies scenario,2040,273.00,kt
+Energy demand by technology,Nickel,Other low emissions power generation,World,component,Current Policies scenario,2045,264.00,kt
+Energy demand by technology,Nickel,Other low emissions power generation,World,component,Current Policies scenario,2050,232.00,kt
+Energy demand by technology,Nickel,Other low emissions power generation,World,component,Stated Policies scenario,2030,275.00,kt
+Energy demand by technology,Nickel,Other low emissions power generation,World,component,Stated Policies scenario,2035,302.00,kt
+Energy demand by technology,Nickel,Other low emissions power generation,World,component,Stated Policies scenario,2040,299.00,kt
+Energy demand by technology,Nickel,Other low emissions power generation,World,component,Stated Policies scenario,2045,289.00,kt
+Energy demand by technology,Nickel,Other low emissions power generation,World,component,Stated Policies scenario,2050,254.00,kt
+Energy demand by technology,Nickel,Other low emissions power generation,World,component,High Demand Scenario,2030,361.00,kt
+Energy demand by technology,Nickel,Other low emissions power generation,World,component,High Demand Scenario,2035,353.00,kt
+Energy demand by technology,Nickel,Other low emissions power generation,World,component,High Demand Scenario,2040,381.00,kt
+Energy demand by technology,Nickel,Other low emissions power generation,World,component,High Demand Scenario,2045,358.00,kt
+Energy demand by technology,Nickel,Other low emissions power generation,World,component,High Demand Scenario,2050,444.00,kt
+Energy demand by technology,Nickel,Electric vehicles,World,component,Base year (all scenarios),2025,439.00,kt
+Energy demand by technology,Nickel,Electric vehicles,World,component,Current Policies scenario,2030,909.00,kt
+Energy demand by technology,Nickel,Electric vehicles,World,component,Current Policies scenario,2035,"1,294.00",kt
+Energy demand by technology,Nickel,Electric vehicles,World,component,Current Policies scenario,2040,"1,449.00",kt
+Energy demand by technology,Nickel,Electric vehicles,World,component,Current Policies scenario,2045,"1,492.00",kt
+Energy demand by technology,Nickel,Electric vehicles,World,component,Current Policies scenario,2050,"1,448.00",kt
+Energy demand by technology,Nickel,Electric vehicles,World,component,Stated Policies scenario,2030,989.00,kt
+Energy demand by technology,Nickel,Electric vehicles,World,component,Stated Policies scenario,2035,"1,536.00",kt
+Energy demand by technology,Nickel,Electric vehicles,World,component,Stated Policies scenario,2040,"1,851.00",kt
+Energy demand by technology,Nickel,Electric vehicles,World,component,Stated Policies scenario,2045,"2,020.00",kt
+Energy demand by technology,Nickel,Electric vehicles,World,component,Stated Policies scenario,2050,"2,054.00",kt
+Energy demand by technology,Nickel,Electric vehicles,World,component,High Demand Scenario,2030,"1,119.00",kt
+Energy demand by technology,Nickel,Electric vehicles,World,component,High Demand Scenario,2035,"1,920.00",kt
+Energy demand by technology,Nickel,Electric vehicles,World,component,High Demand Scenario,2040,"2,500.00",kt
+Energy demand by technology,Nickel,Electric vehicles,World,component,High Demand Scenario,2045,"2,748.00",kt
+Energy demand by technology,Nickel,Electric vehicles,World,component,High Demand Scenario,2050,"2,839.00",kt
+Energy demand by technology,Nickel,Grid battery storage,World,component,Base year (all scenarios),2025,27.60,kt
+Energy demand by technology,Nickel,Grid battery storage,World,component,Current Policies scenario,2030,59.00,kt
+Energy demand by technology,Nickel,Grid battery storage,World,component,Current Policies scenario,2035,112.00,kt
+Energy demand by technology,Nickel,Grid battery storage,World,component,Current Policies scenario,2040,160.00,kt
+Energy demand by technology,Nickel,Grid battery storage,World,component,Current Policies scenario,2045,235.00,kt
+Energy demand by technology,Nickel,Grid battery storage,World,component,Current Policies scenario,2050,305.00,kt
+Energy demand by technology,Nickel,Grid battery storage,World,component,Stated Policies scenario,2030,71.40,kt
+Energy demand by technology,Nickel,Grid battery storage,World,component,Stated Policies scenario,2035,134.00,kt
+Energy demand by technology,Nickel,Grid battery storage,World,component,Stated Policies scenario,2040,199.00,kt
+Energy demand by technology,Nickel,Grid battery storage,World,component,Stated Policies scenario,2045,287.00,kt
+Energy demand by technology,Nickel,Grid battery storage,World,component,Stated Policies scenario,2050,382.00,kt
+Energy demand by technology,Nickel,Grid battery storage,World,component,High Demand Scenario,2030,92.10,kt
+Energy demand by technology,Nickel,Grid battery storage,World,component,High Demand Scenario,2035,169.00,kt
+Energy demand by technology,Nickel,Grid battery storage,World,component,High Demand Scenario,2040,264.00,kt
+Energy demand by technology,Nickel,Grid battery storage,World,component,High Demand Scenario,2045,371.00,kt
+Energy demand by technology,Nickel,Grid battery storage,World,component,High Demand Scenario,2050,512.00,kt
+Energy demand by technology,Nickel,Hydrogen technologies,World,component,Base year (all scenarios),2025,2.31,kt
+Energy demand by technology,Nickel,Hydrogen technologies,World,component,Current Policies scenario,2030,4.71,kt
+Energy demand by technology,Nickel,Hydrogen technologies,World,component,Current Policies scenario,2035,5.19,kt
+Energy demand by technology,Nickel,Hydrogen technologies,World,component,Current Policies scenario,2040,4.09,kt
+Energy demand by technology,Nickel,Hydrogen technologies,World,component,Current Policies scenario,2045,3.93,kt
+Energy demand by technology,Nickel,Hydrogen technologies,World,component,Current Policies scenario,2050,5.37,kt
+Energy demand by technology,Nickel,Hydrogen technologies,World,component,Stated Policies scenario,2030,4.71,kt
+Energy demand by technology,Nickel,Hydrogen technologies,World,component,Stated Policies scenario,2035,5.19,kt
+Energy demand by technology,Nickel,Hydrogen technologies,World,component,Stated Policies scenario,2040,4.09,kt
+Energy demand by technology,Nickel,Hydrogen technologies,World,component,Stated Policies scenario,2045,3.93,kt
+Energy demand by technology,Nickel,Hydrogen technologies,World,component,Stated Policies scenario,2050,5.37,kt
+Energy demand by technology,Nickel,Hydrogen technologies,World,component,High Demand Scenario,2030,32.80,kt
+Energy demand by technology,Nickel,Hydrogen technologies,World,component,High Demand Scenario,2035,32.30,kt
+Energy demand by technology,Nickel,Hydrogen technologies,World,component,High Demand Scenario,2040,32.40,kt
+Energy demand by technology,Nickel,Hydrogen technologies,World,component,High Demand Scenario,2045,45.30,kt
+Energy demand by technology,Nickel,Hydrogen technologies,World,component,High Demand Scenario,2050,64.00,kt
+Energy demand by technology,Nickel,Total,World,total,Base year (all scenarios),2025,625.00,kt
+Energy demand by technology,Nickel,Total,World,total,Current Policies scenario,2030,"1,276.00",kt
+Energy demand by technology,Nickel,Total,World,total,Current Policies scenario,2035,"1,738.00",kt
+Energy demand by technology,Nickel,Total,World,total,Current Policies scenario,2040,"1,932.00",kt
+Energy demand by technology,Nickel,Total,World,total,Current Policies scenario,2045,"2,048.00",kt
+Energy demand by technology,Nickel,Total,World,total,Current Policies scenario,2050,"2,051.00",kt
+Energy demand by technology,Nickel,Total,World,total,Stated Policies scenario,2030,"1,409.00",kt
+Energy demand by technology,Nickel,Total,World,total,Stated Policies scenario,2035,"2,037.00",kt
+Energy demand by technology,Nickel,Total,World,total,Stated Policies scenario,2040,"2,403.00",kt
+Energy demand by technology,Nickel,Total,World,total,Stated Policies scenario,2045,"2,656.00",kt
+Energy demand by technology,Nickel,Total,World,total,Stated Policies scenario,2050,"2,763.00",kt
+Energy demand by technology,Nickel,Total,World,total,High Demand Scenario,2030,"1,698.00",kt
+Energy demand by technology,Nickel,Total,World,total,High Demand Scenario,2035,"2,560.00",kt
+Energy demand by technology,Nickel,Total,World,total,High Demand Scenario,2040,"3,253.00",kt
+Energy demand by technology,Nickel,Total,World,total,High Demand Scenario,2045,"3,600.00",kt
+Energy demand by technology,Nickel,Total,World,total,High Demand Scenario,2050,"3,963.00",kt
+Energy demand by technology,PGMs,Hydrogen technologies,World,component,Base year (all scenarios),2025,0.00,kt
+Energy demand by technology,PGMs,Hydrogen technologies,World,component,Current Policies scenario,2030,0.00,kt
+Energy demand by technology,PGMs,Hydrogen technologies,World,component,Current Policies scenario,2035,0.01,kt
+Energy demand by technology,PGMs,Hydrogen technologies,World,component,Current Policies scenario,2040,0.01,kt
+Energy demand by technology,PGMs,Hydrogen technologies,World,component,Current Policies scenario,2045,0.01,kt
+Energy demand by technology,PGMs,Hydrogen technologies,World,component,Current Policies scenario,2050,0.01,kt
+Energy demand by technology,PGMs,Hydrogen technologies,World,component,Stated Policies scenario,2030,0.01,kt
+Energy demand by technology,PGMs,Hydrogen technologies,World,component,Stated Policies scenario,2035,0.01,kt
+Energy demand by technology,PGMs,Hydrogen technologies,World,component,Stated Policies scenario,2040,0.01,kt
+Energy demand by technology,PGMs,Hydrogen technologies,World,component,Stated Policies scenario,2045,0.02,kt
+Energy demand by technology,PGMs,Hydrogen technologies,World,component,Stated Policies scenario,2050,0.01,kt
+Energy demand by technology,PGMs,Hydrogen technologies,World,component,High Demand Scenario,2030,0.01,kt
+Energy demand by technology,PGMs,Hydrogen technologies,World,component,High Demand Scenario,2035,0.03,kt
+Energy demand by technology,PGMs,Hydrogen technologies,World,component,High Demand Scenario,2040,0.06,kt
+Energy demand by technology,PGMs,Hydrogen technologies,World,component,High Demand Scenario,2045,0.06,kt
+Energy demand by technology,PGMs,Hydrogen technologies,World,component,High Demand Scenario,2050,0.05,kt
+Energy demand by technology,PGMs,Total,World,total,Base year (all scenarios),2025,0.00,kt
+Energy demand by technology,PGMs,Total,World,total,Current Policies scenario,2030,0.00,kt
+Energy demand by technology,PGMs,Total,World,total,Current Policies scenario,2035,0.01,kt
+Energy demand by technology,PGMs,Total,World,total,Current Policies scenario,2040,0.01,kt
+Energy demand by technology,PGMs,Total,World,total,Current Policies scenario,2045,0.01,kt
+Energy demand by technology,PGMs,Total,World,total,Current Policies scenario,2050,0.01,kt
+Energy demand by technology,PGMs,Total,World,total,Stated Policies scenario,2030,0.01,kt
+Energy demand by technology,PGMs,Total,World,total,Stated Policies scenario,2035,0.01,kt
+Energy demand by technology,PGMs,Total,World,total,Stated Policies scenario,2040,0.01,kt
+Energy demand by technology,PGMs,Total,World,total,Stated Policies scenario,2045,0.02,kt
+Energy demand by technology,PGMs,Total,World,total,Stated Policies scenario,2050,0.01,kt
+Energy demand by technology,PGMs,Total,World,total,High Demand Scenario,2030,0.01,kt
+Energy demand by technology,PGMs,Total,World,total,High Demand Scenario,2035,0.03,kt
+Energy demand by technology,PGMs,Total,World,total,High Demand Scenario,2040,0.06,kt
+Energy demand by technology,PGMs,Total,World,total,High Demand Scenario,2045,0.06,kt
+Energy demand by technology,PGMs,Total,World,total,High Demand Scenario,2050,0.05,kt
+Energy demand by technology,Silicon,Solar PV,World,component,Base year (all scenarios),2025,"1,691.00",kt
+Energy demand by technology,Silicon,Solar PV,World,component,Current Policies scenario,2030,"1,426.00",kt
+Energy demand by technology,Silicon,Solar PV,World,component,Current Policies scenario,2035,"1,148.00",kt
+Energy demand by technology,Silicon,Solar PV,World,component,Current Policies scenario,2040,"1,122.00",kt
+Energy demand by technology,Silicon,Solar PV,World,component,Current Policies scenario,2045,"1,215.00",kt
+Energy demand by technology,Silicon,Solar PV,World,component,Current Policies scenario,2050,"1,215.00",kt
+Energy demand by technology,Silicon,Solar PV,World,component,Stated Policies scenario,2030,"1,547.00",kt
+Energy demand by technology,Silicon,Solar PV,World,component,Stated Policies scenario,2035,"1,434.00",kt
+Energy demand by technology,Silicon,Solar PV,World,component,Stated Policies scenario,2040,"1,418.00",kt
+Energy demand by technology,Silicon,Solar PV,World,component,Stated Policies scenario,2045,"1,390.00",kt
+Energy demand by technology,Silicon,Solar PV,World,component,Stated Policies scenario,2050,"1,328.00",kt
+Energy demand by technology,Silicon,Solar PV,World,component,High Demand Scenario,2030,"1,960.00",kt
+Energy demand by technology,Silicon,Solar PV,World,component,High Demand Scenario,2035,"1,816.00",kt
+Energy demand by technology,Silicon,Solar PV,World,component,High Demand Scenario,2040,"1,684.00",kt
+Energy demand by technology,Silicon,Solar PV,World,component,High Demand Scenario,2045,"1,494.00",kt
+Energy demand by technology,Silicon,Solar PV,World,component,High Demand Scenario,2050,"1,594.00",kt
+Energy demand by technology,Silicon,Electric vehicles,World,component,Base year (all scenarios),2025,13.10,kt
+Energy demand by technology,Silicon,Electric vehicles,World,component,Current Policies scenario,2030,59.80,kt
+Energy demand by technology,Silicon,Electric vehicles,World,component,Current Policies scenario,2035,166.00,kt
+Energy demand by technology,Silicon,Electric vehicles,World,component,Current Policies scenario,2040,276.00,kt
+Energy demand by technology,Silicon,Electric vehicles,World,component,Current Policies scenario,2045,402.00,kt
+Energy demand by technology,Silicon,Electric vehicles,World,component,Current Policies scenario,2050,480.00,kt
+Energy demand by technology,Silicon,Electric vehicles,World,component,Stated Policies scenario,2030,64.40,kt
+Energy demand by technology,Silicon,Electric vehicles,World,component,Stated Policies scenario,2035,196.00,kt
+Energy demand by technology,Silicon,Electric vehicles,World,component,Stated Policies scenario,2040,351.00,kt
+Energy demand by technology,Silicon,Electric vehicles,World,component,Stated Policies scenario,2045,544.00,kt
+Energy demand by technology,Silicon,Electric vehicles,World,component,Stated Policies scenario,2050,689.00,kt
+Energy demand by technology,Silicon,Electric vehicles,World,component,High Demand Scenario,2030,71.10,kt
+Energy demand by technology,Silicon,Electric vehicles,World,component,High Demand Scenario,2035,242.00,kt
+Energy demand by technology,Silicon,Electric vehicles,World,component,High Demand Scenario,2040,473.00,kt
+Energy demand by technology,Silicon,Electric vehicles,World,component,High Demand Scenario,2045,738.00,kt
+Energy demand by technology,Silicon,Electric vehicles,World,component,High Demand Scenario,2050,948.00,kt
+Energy demand by technology,Silicon,Grid battery storage,World,component,Base year (all scenarios),2025,0.94,kt
+Energy demand by technology,Silicon,Grid battery storage,World,component,Current Policies scenario,2030,3.31,kt
+Energy demand by technology,Silicon,Grid battery storage,World,component,Current Policies scenario,2035,6.39,kt
+Energy demand by technology,Silicon,Grid battery storage,World,component,Current Policies scenario,2040,9.80,kt
+Energy demand by technology,Silicon,Grid battery storage,World,component,Current Policies scenario,2045,14.90,kt
+Energy demand by technology,Silicon,Grid battery storage,World,component,Current Policies scenario,2050,16.60,kt
+Energy demand by technology,Silicon,Grid battery storage,World,component,Stated Policies scenario,2030,3.97,kt
+Energy demand by technology,Silicon,Grid battery storage,World,component,Stated Policies scenario,2035,7.39,kt
+Energy demand by technology,Silicon,Grid battery storage,World,component,Stated Policies scenario,2040,12.20,kt
+Energy demand by technology,Silicon,Grid battery storage,World,component,Stated Policies scenario,2045,17.80,kt
+Energy demand by technology,Silicon,Grid battery storage,World,component,Stated Policies scenario,2050,20.80,kt
+Energy demand by technology,Silicon,Grid battery storage,World,component,High Demand Scenario,2030,4.73,kt
+Energy demand by technology,Silicon,Grid battery storage,World,component,High Demand Scenario,2035,8.50,kt
+Energy demand by technology,Silicon,Grid battery storage,World,component,High Demand Scenario,2040,16.20,kt
+Energy demand by technology,Silicon,Grid battery storage,World,component,High Demand Scenario,2045,21.50,kt
+Energy demand by technology,Silicon,Grid battery storage,World,component,High Demand Scenario,2050,27.80,kt
+Energy demand by technology,Silicon,Total,World,total,Base year (all scenarios),2025,"1,705.00",kt
+Energy demand by technology,Silicon,Total,World,total,Current Policies scenario,2030,"1,489.00",kt
+Energy demand by technology,Silicon,Total,World,total,Current Policies scenario,2035,"1,321.00",kt
+Energy demand by technology,Silicon,Total,World,total,Current Policies scenario,2040,"1,408.00",kt
+Energy demand by technology,Silicon,Total,World,total,Current Policies scenario,2045,"1,633.00",kt
+Energy demand by technology,Silicon,Total,World,total,Current Policies scenario,2050,"1,711.00",kt
+Energy demand by technology,Silicon,Total,World,total,Stated Policies scenario,2030,"1,616.00",kt
+Energy demand by technology,Silicon,Total,World,total,Stated Policies scenario,2035,"1,637.00",kt
+Energy demand by technology,Silicon,Total,World,total,Stated Policies scenario,2040,"1,781.00",kt
+Energy demand by technology,Silicon,Total,World,total,Stated Policies scenario,2045,"1,952.00",kt
+Energy demand by technology,Silicon,Total,World,total,Stated Policies scenario,2050,"2,038.00",kt
+Energy demand by technology,Silicon,Total,World,total,High Demand Scenario,2030,"2,035.00",kt
+Energy demand by technology,Silicon,Total,World,total,High Demand Scenario,2035,"2,067.00",kt
+Energy demand by technology,Silicon,Total,World,total,High Demand Scenario,2040,"2,174.00",kt
+Energy demand by technology,Silicon,Total,World,total,High Demand Scenario,2045,"2,254.00",kt
+Energy demand by technology,Silicon,Total,World,total,High Demand Scenario,2050,"2,570.00",kt
+Energy demand by technology,Silver,Solar PV,World,component,Base year (all scenarios),2025,10.10,kt
+Energy demand by technology,Silver,Solar PV,World,component,Current Policies scenario,2030,8.97,kt
+Energy demand by technology,Silver,Solar PV,World,component,Current Policies scenario,2035,6.37,kt
+Energy demand by technology,Silver,Solar PV,World,component,Current Policies scenario,2040,5.12,kt
+Energy demand by technology,Silver,Solar PV,World,component,Current Policies scenario,2045,4.24,kt
+Energy demand by technology,Silver,Solar PV,World,component,Current Policies scenario,2050,2.91,kt
+Energy demand by technology,Silver,Solar PV,World,component,Stated Policies scenario,2030,9.80,kt
+Energy demand by technology,Silver,Solar PV,World,component,Stated Policies scenario,2035,7.97,kt
+Energy demand by technology,Silver,Solar PV,World,component,Stated Policies scenario,2040,6.49,kt
+Energy demand by technology,Silver,Solar PV,World,component,Stated Policies scenario,2045,4.93,kt
+Energy demand by technology,Silver,Solar PV,World,component,Stated Policies scenario,2050,3.20,kt
+Energy demand by technology,Silver,Solar PV,World,component,High Demand Scenario,2030,12.10,kt
+Energy demand by technology,Silver,Solar PV,World,component,High Demand Scenario,2035,9.64,kt
+Energy demand by technology,Silver,Solar PV,World,component,High Demand Scenario,2040,7.06,kt
+Energy demand by technology,Silver,Solar PV,World,component,High Demand Scenario,2045,4.40,kt
+Energy demand by technology,Silver,Solar PV,World,component,High Demand Scenario,2050,2.47,kt
+Energy demand by technology,Silver,Other low emissions power generation,World,component,Base year (all scenarios),2025,0.01,kt
+Energy demand by technology,Silver,Other low emissions power generation,World,component,Current Policies scenario,2030,0.03,kt
+Energy demand by technology,Silver,Other low emissions power generation,World,component,Current Policies scenario,2035,0.06,kt
+Energy demand by technology,Silver,Other low emissions power generation,World,component,Current Policies scenario,2040,0.07,kt
+Energy demand by technology,Silver,Other low emissions power generation,World,component,Current Policies scenario,2045,0.06,kt
+Energy demand by technology,Silver,Other low emissions power generation,World,component,Current Policies scenario,2050,0.06,kt
+Energy demand by technology,Silver,Other low emissions power generation,World,component,Stated Policies scenario,2030,0.03,kt
+Energy demand by technology,Silver,Other low emissions power generation,World,component,Stated Policies scenario,2035,0.07,kt
+Energy demand by technology,Silver,Other low emissions power generation,World,component,Stated Policies scenario,2040,0.07,kt
+Energy demand by technology,Silver,Other low emissions power generation,World,component,Stated Policies scenario,2045,0.07,kt
+Energy demand by technology,Silver,Other low emissions power generation,World,component,Stated Policies scenario,2050,0.07,kt
+Energy demand by technology,Silver,Other low emissions power generation,World,component,High Demand Scenario,2030,0.08,kt
+Energy demand by technology,Silver,Other low emissions power generation,World,component,High Demand Scenario,2035,0.18,kt
+Energy demand by technology,Silver,Other low emissions power generation,World,component,High Demand Scenario,2040,0.19,kt
+Energy demand by technology,Silver,Other low emissions power generation,World,component,High Demand Scenario,2045,0.19,kt
+Energy demand by technology,Silver,Other low emissions power generation,World,component,High Demand Scenario,2050,0.14,kt
+Energy demand by technology,Silver,Total,World,total,Base year (all scenarios),2025,10.10,kt
+Energy demand by technology,Silver,Total,World,total,Current Policies scenario,2030,9.00,kt
+Energy demand by technology,Silver,Total,World,total,Current Policies scenario,2035,6.44,kt
+Energy demand by technology,Silver,Total,World,total,Current Policies scenario,2040,5.19,kt
+Energy demand by technology,Silver,Total,World,total,Current Policies scenario,2045,4.30,kt
+Energy demand by technology,Silver,Total,World,total,Current Policies scenario,2050,2.97,kt
+Energy demand by technology,Silver,Total,World,total,Stated Policies scenario,2030,9.83,kt
+Energy demand by technology,Silver,Total,World,total,Stated Policies scenario,2035,8.03,kt
+Energy demand by technology,Silver,Total,World,total,Stated Policies scenario,2040,6.56,kt
+Energy demand by technology,Silver,Total,World,total,Stated Policies scenario,2045,5.00,kt
+Energy demand by technology,Silver,Total,World,total,Stated Policies scenario,2050,3.27,kt
+Energy demand by technology,Silver,Total,World,total,High Demand Scenario,2030,12.20,kt
+Energy demand by technology,Silver,Total,World,total,High Demand Scenario,2035,9.82,kt
+Energy demand by technology,Silver,Total,World,total,High Demand Scenario,2040,7.24,kt
+Energy demand by technology,Silver,Total,World,total,High Demand Scenario,2045,4.58,kt
+Energy demand by technology,Silver,Total,World,total,High Demand Scenario,2050,2.61,kt
+Energy demand by technology,Zinc,Solar PV,World,component,Base year (all scenarios),2025,17.40,kt
+Energy demand by technology,Zinc,Solar PV,World,component,Current Policies scenario,2030,18.20,kt
+Energy demand by technology,Zinc,Solar PV,World,component,Current Policies scenario,2035,15.70,kt
+Energy demand by technology,Zinc,Solar PV,World,component,Current Policies scenario,2040,16.00,kt
+Energy demand by technology,Zinc,Solar PV,World,component,Current Policies scenario,2045,17.90,kt
+Energy demand by technology,Zinc,Solar PV,World,component,Current Policies scenario,2050,18.90,kt
+Energy demand by technology,Zinc,Solar PV,World,component,Stated Policies scenario,2030,19.90,kt
+Energy demand by technology,Zinc,Solar PV,World,component,Stated Policies scenario,2035,19.60,kt
+Energy demand by technology,Zinc,Solar PV,World,component,Stated Policies scenario,2040,20.20,kt
+Energy demand by technology,Zinc,Solar PV,World,component,Stated Policies scenario,2045,20.80,kt
+Energy demand by technology,Zinc,Solar PV,World,component,Stated Policies scenario,2050,20.80,kt
+Energy demand by technology,Zinc,Solar PV,World,component,High Demand Scenario,2030,25.20,kt
+Energy demand by technology,Zinc,Solar PV,World,component,High Demand Scenario,2035,24.90,kt
+Energy demand by technology,Zinc,Solar PV,World,component,High Demand Scenario,2040,24.30,kt
+Energy demand by technology,Zinc,Solar PV,World,component,High Demand Scenario,2045,22.60,kt
+Energy demand by technology,Zinc,Solar PV,World,component,High Demand Scenario,2050,25.50,kt
+Energy demand by technology,Zinc,Wind,World,component,Base year (all scenarios),2025,796.00,kt
+Energy demand by technology,Zinc,Wind,World,component,Current Policies scenario,2030,915.00,kt
+Energy demand by technology,Zinc,Wind,World,component,Current Policies scenario,2035,790.00,kt
+Energy demand by technology,Zinc,Wind,World,component,Current Policies scenario,2040,706.00,kt
+Energy demand by technology,Zinc,Wind,World,component,Current Policies scenario,2045,815.00,kt
+Energy demand by technology,Zinc,Wind,World,component,Current Policies scenario,2050,941.00,kt
+Energy demand by technology,Zinc,Wind,World,component,Stated Policies scenario,2030,"1,055.00",kt
+Energy demand by technology,Zinc,Wind,World,component,Stated Policies scenario,2035,911.00,kt
+Energy demand by technology,Zinc,Wind,World,component,Stated Policies scenario,2040,774.00,kt
+Energy demand by technology,Zinc,Wind,World,component,Stated Policies scenario,2045,871.00,kt
+Energy demand by technology,Zinc,Wind,World,component,Stated Policies scenario,2050,"1,039.00",kt
+Energy demand by technology,Zinc,Wind,World,component,High Demand Scenario,2030,"1,463.00",kt
+Energy demand by technology,Zinc,Wind,World,component,High Demand Scenario,2035,"1,336.00",kt
+Energy demand by technology,Zinc,Wind,World,component,High Demand Scenario,2040,"1,183.00",kt
+Energy demand by technology,Zinc,Wind,World,component,High Demand Scenario,2045,"1,228.00",kt
+Energy demand by technology,Zinc,Wind,World,component,High Demand Scenario,2050,"1,670.00",kt
+Energy demand by technology,Zinc,Other low emissions power generation,World,component,Base year (all scenarios),2025,13.60,kt
+Energy demand by technology,Zinc,Other low emissions power generation,World,component,Current Policies scenario,2030,20.70,kt
+Energy demand by technology,Zinc,Other low emissions power generation,World,component,Current Policies scenario,2035,18.30,kt
+Energy demand by technology,Zinc,Other low emissions power generation,World,component,Current Policies scenario,2040,19.50,kt
+Energy demand by technology,Zinc,Other low emissions power generation,World,component,Current Policies scenario,2045,23.60,kt
+Energy demand by technology,Zinc,Other low emissions power generation,World,component,Current Policies scenario,2050,24.20,kt
+Energy demand by technology,Zinc,Other low emissions power generation,World,component,Stated Policies scenario,2030,21.70,kt
+Energy demand by technology,Zinc,Other low emissions power generation,World,component,Stated Policies scenario,2035,19.50,kt
+Energy demand by technology,Zinc,Other low emissions power generation,World,component,Stated Policies scenario,2040,21.10,kt
+Energy demand by technology,Zinc,Other low emissions power generation,World,component,Stated Policies scenario,2045,25.10,kt
+Energy demand by technology,Zinc,Other low emissions power generation,World,component,Stated Policies scenario,2050,25.60,kt
+Energy demand by technology,Zinc,Other low emissions power generation,World,component,High Demand Scenario,2030,27.00,kt
+Energy demand by technology,Zinc,Other low emissions power generation,World,component,High Demand Scenario,2035,29.10,kt
+Energy demand by technology,Zinc,Other low emissions power generation,World,component,High Demand Scenario,2040,29.80,kt
+Energy demand by technology,Zinc,Other low emissions power generation,World,component,High Demand Scenario,2045,33.10,kt
+Energy demand by technology,Zinc,Other low emissions power generation,World,component,High Demand Scenario,2050,29.50,kt
+Energy demand by technology,Zinc,Total,World,total,Base year (all scenarios),2025,827.00,kt
+Energy demand by technology,Zinc,Total,World,total,Current Policies scenario,2030,954.00,kt
+Energy demand by technology,Zinc,Total,World,total,Current Policies scenario,2035,824.00,kt
+Energy demand by technology,Zinc,Total,World,total,Current Policies scenario,2040,741.00,kt
+Energy demand by technology,Zinc,Total,World,total,Current Policies scenario,2045,856.00,kt
+Energy demand by technology,Zinc,Total,World,total,Current Policies scenario,2050,984.00,kt
+Energy demand by technology,Zinc,Total,World,total,Stated Policies scenario,2030,"1,096.00",kt
+Energy demand by technology,Zinc,Total,World,total,Stated Policies scenario,2035,951.00,kt
+Energy demand by technology,Zinc,Total,World,total,Stated Policies scenario,2040,815.00,kt
+Energy demand by technology,Zinc,Total,World,total,Stated Policies scenario,2045,917.00,kt
+Energy demand by technology,Zinc,Total,World,total,Stated Policies scenario,2050,"1,086.00",kt
+Energy demand by technology,Zinc,Total,World,total,High Demand Scenario,2030,"1,515.00",kt
+Energy demand by technology,Zinc,Total,World,total,High Demand Scenario,2035,"1,390.00",kt
+Energy demand by technology,Zinc,Total,World,total,High Demand Scenario,2040,"1,237.00",kt
+Energy demand by technology,Zinc,Total,World,total,High Demand Scenario,2045,"1,284.00",kt
+Energy demand by technology,Zinc,Total,World,total,High Demand Scenario,2050,"1,725.00",kt
+Energy demand by technology,Neodymium,Wind,World,component,Base year (all scenarios),2025,7.73,kt
+Energy demand by technology,Neodymium,Wind,World,component,Current Policies scenario,2030,9.96,kt
+Energy demand by technology,Neodymium,Wind,World,component,Current Policies scenario,2035,10.10,kt
+Energy demand by technology,Neodymium,Wind,World,component,Current Policies scenario,2040,7.91,kt
+Energy demand by technology,Neodymium,Wind,World,component,Current Policies scenario,2045,8.65,kt
+Energy demand by technology,Neodymium,Wind,World,component,Current Policies scenario,2050,10.10,kt
+Energy demand by technology,Neodymium,Wind,World,component,Stated Policies scenario,2030,11.90,kt
+Energy demand by technology,Neodymium,Wind,World,component,Stated Policies scenario,2035,11.60,kt
+Energy demand by technology,Neodymium,Wind,World,component,Stated Policies scenario,2040,8.62,kt
+Energy demand by technology,Neodymium,Wind,World,component,Stated Policies scenario,2045,9.33,kt
+Energy demand by technology,Neodymium,Wind,World,component,Stated Policies scenario,2050,11.30,kt
+Energy demand by technology,Neodymium,Wind,World,component,High Demand Scenario,2030,18.10,kt
+Energy demand by technology,Neodymium,Wind,World,component,High Demand Scenario,2035,15.60,kt
+Energy demand by technology,Neodymium,Wind,World,component,High Demand Scenario,2040,13.70,kt
+Energy demand by technology,Neodymium,Wind,World,component,High Demand Scenario,2045,14.50,kt
+Energy demand by technology,Neodymium,Wind,World,component,High Demand Scenario,2050,19.50,kt
+Energy demand by technology,Neodymium,Electric vehicles,World,component,Base year (all scenarios),2025,8.44,kt
+Energy demand by technology,Neodymium,Electric vehicles,World,component,Current Policies scenario,2030,15.70,kt
+Energy demand by technology,Neodymium,Electric vehicles,World,component,Current Policies scenario,2035,19.40,kt
+Energy demand by technology,Neodymium,Electric vehicles,World,component,Current Policies scenario,2040,19.90,kt
+Energy demand by technology,Neodymium,Electric vehicles,World,component,Current Policies scenario,2045,20.40,kt
+Energy demand by technology,Neodymium,Electric vehicles,World,component,Current Policies scenario,2050,20.80,kt
+Energy demand by technology,Neodymium,Electric vehicles,World,component,Stated Policies scenario,2030,16.50,kt
+Energy demand by technology,Neodymium,Electric vehicles,World,component,Stated Policies scenario,2035,22.70,kt
+Energy demand by technology,Neodymium,Electric vehicles,World,component,Stated Policies scenario,2040,26.00,kt
+Energy demand by technology,Neodymium,Electric vehicles,World,component,Stated Policies scenario,2045,29.20,kt
+Energy demand by technology,Neodymium,Electric vehicles,World,component,Stated Policies scenario,2050,32.30,kt
+Energy demand by technology,Neodymium,Electric vehicles,World,component,High Demand Scenario,2030,19.20,kt
+Energy demand by technology,Neodymium,Electric vehicles,World,component,High Demand Scenario,2035,30.70,kt
+Energy demand by technology,Neodymium,Electric vehicles,World,component,High Demand Scenario,2040,36.30,kt
+Energy demand by technology,Neodymium,Electric vehicles,World,component,High Demand Scenario,2045,39.70,kt
+Energy demand by technology,Neodymium,Electric vehicles,World,component,High Demand Scenario,2050,42.20,kt
+Energy demand by technology,Neodymium,Total,World,total,Base year (all scenarios),2025,16.20,kt
+Energy demand by technology,Neodymium,Total,World,total,Current Policies scenario,2030,25.70,kt
+Energy demand by technology,Neodymium,Total,World,total,Current Policies scenario,2035,29.50,kt
+Energy demand by technology,Neodymium,Total,World,total,Current Policies scenario,2040,27.80,kt
+Energy demand by technology,Neodymium,Total,World,total,Current Policies scenario,2045,29.10,kt
+Energy demand by technology,Neodymium,Total,World,total,Current Policies scenario,2050,30.90,kt
+Energy demand by technology,Neodymium,Total,World,total,Stated Policies scenario,2030,28.30,kt
+Energy demand by technology,Neodymium,Total,World,total,Stated Policies scenario,2035,34.30,kt
+Energy demand by technology,Neodymium,Total,World,total,Stated Policies scenario,2040,34.60,kt
+Energy demand by technology,Neodymium,Total,World,total,Stated Policies scenario,2045,38.50,kt
+Energy demand by technology,Neodymium,Total,World,total,Stated Policies scenario,2050,43.60,kt
+Energy demand by technology,Neodymium,Total,World,total,High Demand Scenario,2030,37.30,kt
+Energy demand by technology,Neodymium,Total,World,total,High Demand Scenario,2035,46.30,kt
+Energy demand by technology,Neodymium,Total,World,total,High Demand Scenario,2040,50.00,kt
+Energy demand by technology,Neodymium,Total,World,total,High Demand Scenario,2045,54.20,kt
+Energy demand by technology,Neodymium,Total,World,total,High Demand Scenario,2050,61.70,kt
+Energy demand by mineral,Boron,All energy technologies,World,component,Base year (all scenarios),2025,0.21,kt
+Energy demand by mineral,Boron,All energy technologies,World,component,Current Policies scenario,2030,0.30,kt
+Energy demand by mineral,Boron,All energy technologies,World,component,Current Policies scenario,2035,0.32,kt
+Energy demand by mineral,Boron,All energy technologies,World,component,Current Policies scenario,2040,0.26,kt
+Energy demand by mineral,Boron,All energy technologies,World,component,Current Policies scenario,2045,0.29,kt
+Energy demand by mineral,Boron,All energy technologies,World,component,Current Policies scenario,2050,0.36,kt
+Energy demand by mineral,Boron,All energy technologies,World,component,Stated Policies scenario,2030,0.36,kt
+Energy demand by mineral,Boron,All energy technologies,World,component,Stated Policies scenario,2035,0.37,kt
+Energy demand by mineral,Boron,All energy technologies,World,component,Stated Policies scenario,2040,0.28,kt
+Energy demand by mineral,Boron,All energy technologies,World,component,Stated Policies scenario,2045,0.31,kt
+Energy demand by mineral,Boron,All energy technologies,World,component,Stated Policies scenario,2050,0.40,kt
+Energy demand by mineral,Boron,All energy technologies,World,component,High Demand Scenario,2030,0.56,kt
+Energy demand by mineral,Boron,All energy technologies,World,component,High Demand Scenario,2035,0.51,kt
+Energy demand by mineral,Boron,All energy technologies,World,component,High Demand Scenario,2040,0.47,kt
+Energy demand by mineral,Boron,All energy technologies,World,component,High Demand Scenario,2045,0.53,kt
+Energy demand by mineral,Boron,All energy technologies,World,component,High Demand Scenario,2050,0.77,kt
+Energy demand by mineral,Cadmium,All energy technologies,World,component,Base year (all scenarios),2025,1.03,kt
+Energy demand by mineral,Cadmium,All energy technologies,World,component,Current Policies scenario,2030,0.83,kt
+Energy demand by mineral,Cadmium,All energy technologies,World,component,Current Policies scenario,2035,0.73,kt
+Energy demand by mineral,Cadmium,All energy technologies,World,component,Current Policies scenario,2040,0.73,kt
+Energy demand by mineral,Cadmium,All energy technologies,World,component,Current Policies scenario,2045,0.79,kt
+Energy demand by mineral,Cadmium,All energy technologies,World,component,Current Policies scenario,2050,0.80,kt
+Energy demand by mineral,Cadmium,All energy technologies,World,component,Stated Policies scenario,2030,0.91,kt
+Energy demand by mineral,Cadmium,All energy technologies,World,component,Stated Policies scenario,2035,0.90,kt
+Energy demand by mineral,Cadmium,All energy technologies,World,component,Stated Policies scenario,2040,0.93,kt
+Energy demand by mineral,Cadmium,All energy technologies,World,component,Stated Policies scenario,2045,0.92,kt
+Energy demand by mineral,Cadmium,All energy technologies,World,component,Stated Policies scenario,2050,0.89,kt
+Energy demand by mineral,Cadmium,All energy technologies,World,component,High Demand Scenario,2030,1.14,kt
+Energy demand by mineral,Cadmium,All energy technologies,World,component,High Demand Scenario,2035,1.10,kt
+Energy demand by mineral,Cadmium,All energy technologies,World,component,High Demand Scenario,2040,1.02,kt
+Energy demand by mineral,Cadmium,All energy technologies,World,component,High Demand Scenario,2045,0.87,kt
+Energy demand by mineral,Cadmium,All energy technologies,World,component,High Demand Scenario,2050,0.86,kt
+Energy demand by mineral,Chromium,All energy technologies,World,component,Base year (all scenarios),2025,190.00,kt
+Energy demand by mineral,Chromium,All energy technologies,World,component,Current Policies scenario,2030,336.00,kt
+Energy demand by mineral,Chromium,All energy technologies,World,component,Current Policies scenario,2035,343.00,kt
+Energy demand by mineral,Chromium,All energy technologies,World,component,Current Policies scenario,2040,331.00,kt
+Energy demand by mineral,Chromium,All energy technologies,World,component,Current Policies scenario,2045,345.00,kt
+Energy demand by mineral,Chromium,All energy technologies,World,component,Current Policies scenario,2050,332.00,kt
+Energy demand by mineral,Chromium,All energy technologies,World,component,Stated Policies scenario,2030,373.00,kt
+Energy demand by mineral,Chromium,All energy technologies,World,component,Stated Policies scenario,2035,378.00,kt
+Energy demand by mineral,Chromium,All energy technologies,World,component,Stated Policies scenario,2040,363.00,kt
+Energy demand by mineral,Chromium,All energy technologies,World,component,Stated Policies scenario,2045,375.00,kt
+Energy demand by mineral,Chromium,All energy technologies,World,component,Stated Policies scenario,2050,364.00,kt
+Energy demand by mineral,Chromium,All energy technologies,World,component,High Demand Scenario,2030,496.00,kt
+Energy demand by mineral,Chromium,All energy technologies,World,component,High Demand Scenario,2035,474.00,kt
+Energy demand by mineral,Chromium,All energy technologies,World,component,High Demand Scenario,2040,466.00,kt
+Energy demand by mineral,Chromium,All energy technologies,World,component,High Demand Scenario,2045,467.00,kt
+Energy demand by mineral,Chromium,All energy technologies,World,component,High Demand Scenario,2050,539.00,kt
+Energy demand by mineral,Copper,All energy technologies,World,component,Base year (all scenarios),2025,"8,003.00",kt
+Energy demand by mineral,Copper,All energy technologies,World,component,Current Policies scenario,2030,"10,232.00",kt
+Energy demand by mineral,Copper,All energy technologies,World,component,Current Policies scenario,2035,"11,296.00",kt
+Energy demand by mineral,Copper,All energy technologies,World,component,Current Policies scenario,2040,"11,822.00",kt
+Energy demand by mineral,Copper,All energy technologies,World,component,Current Policies scenario,2045,"12,081.00",kt
+Energy demand by mineral,Copper,All energy technologies,World,component,Current Policies scenario,2050,"12,174.00",kt
+Energy demand by mineral,Copper,All energy technologies,World,component,Stated Policies scenario,2030,"10,765.00",kt
+Energy demand by mineral,Copper,All energy technologies,World,component,Stated Policies scenario,2035,"12,364.00",kt
+Energy demand by mineral,Copper,All energy technologies,World,component,Stated Policies scenario,2040,"13,073.00",kt
+Energy demand by mineral,Copper,All energy technologies,World,component,Stated Policies scenario,2045,"13,362.00",kt
+Energy demand by mineral,Copper,All energy technologies,World,component,Stated Policies scenario,2050,"13,559.00",kt
+Energy demand by mineral,Copper,All energy technologies,World,component,High Demand Scenario,2030,"12,302.00",kt
+Energy demand by mineral,Copper,All energy technologies,World,component,High Demand Scenario,2035,"14,552.00",kt
+Energy demand by mineral,Copper,All energy technologies,World,component,High Demand Scenario,2040,"15,668.00",kt
+Energy demand by mineral,Copper,All energy technologies,World,component,High Demand Scenario,2045,"15,828.00",kt
+Energy demand by mineral,Copper,All energy technologies,World,component,High Demand Scenario,2050,"16,572.00",kt
+Energy demand by mineral,Cobalt,All energy technologies,World,component,Base year (all scenarios),2025,90.40,kt
+Energy demand by mineral,Cobalt,All energy technologies,World,component,Current Policies scenario,2030,123.00,kt
+Energy demand by mineral,Cobalt,All energy technologies,World,component,Current Policies scenario,2035,119.00,kt
+Energy demand by mineral,Cobalt,All energy technologies,World,component,Current Policies scenario,2040,109.00,kt
+Energy demand by mineral,Cobalt,All energy technologies,World,component,Current Policies scenario,2045,118.00,kt
+Energy demand by mineral,Cobalt,All energy technologies,World,component,Current Policies scenario,2050,118.00,kt
+Energy demand by mineral,Cobalt,All energy technologies,World,component,Stated Policies scenario,2030,134.00,kt
+Energy demand by mineral,Cobalt,All energy technologies,World,component,Stated Policies scenario,2035,141.00,kt
+Energy demand by mineral,Cobalt,All energy technologies,World,component,Stated Policies scenario,2040,139.00,kt
+Energy demand by mineral,Cobalt,All energy technologies,World,component,Stated Policies scenario,2045,160.00,kt
+Energy demand by mineral,Cobalt,All energy technologies,World,component,Stated Policies scenario,2050,167.00,kt
+Energy demand by mineral,Cobalt,All energy technologies,World,component,High Demand Scenario,2030,153.00,kt
+Energy demand by mineral,Cobalt,All energy technologies,World,component,High Demand Scenario,2035,177.00,kt
+Energy demand by mineral,Cobalt,All energy technologies,World,component,High Demand Scenario,2040,190.00,kt
+Energy demand by mineral,Cobalt,All energy technologies,World,component,High Demand Scenario,2045,219.00,kt
+Energy demand by mineral,Cobalt,All energy technologies,World,component,High Demand Scenario,2050,233.00,kt
+Energy demand by mineral,Gallium,All energy technologies,World,component,Base year (all scenarios),2025,0.03,kt
+Energy demand by mineral,Gallium,All energy technologies,World,component,Current Policies scenario,2030,0.19,kt
+Energy demand by mineral,Gallium,All energy technologies,World,component,Current Policies scenario,2035,0.83,kt
+Energy demand by mineral,Gallium,All energy technologies,World,component,Current Policies scenario,2040,4.60,kt
+Energy demand by mineral,Gallium,All energy technologies,World,component,Current Policies scenario,2045,5.15,kt
+Energy demand by mineral,Gallium,All energy technologies,World,component,Current Policies scenario,2050,5.44,kt
+Energy demand by mineral,Gallium,All energy technologies,World,component,Stated Policies scenario,2030,0.21,kt
+Energy demand by mineral,Gallium,All energy technologies,World,component,Stated Policies scenario,2035,1.03,kt
+Energy demand by mineral,Gallium,All energy technologies,World,component,Stated Policies scenario,2040,5.82,kt
+Energy demand by mineral,Gallium,All energy technologies,World,component,Stated Policies scenario,2045,5.98,kt
+Energy demand by mineral,Gallium,All energy technologies,World,component,Stated Policies scenario,2050,5.99,kt
+Energy demand by mineral,Gallium,All energy technologies,World,component,High Demand Scenario,2030,0.27,kt
+Energy demand by mineral,Gallium,All energy technologies,World,component,High Demand Scenario,2035,1.34,kt
+Energy demand by mineral,Gallium,All energy technologies,World,component,High Demand Scenario,2040,7.22,kt
+Energy demand by mineral,Gallium,All energy technologies,World,component,High Demand Scenario,2045,6.78,kt
+Energy demand by mineral,Gallium,All energy technologies,World,component,High Demand Scenario,2050,7.70,kt
+Energy demand by mineral,Germanium,All energy technologies,World,component,Base year (all scenarios),2025,0.02,kt
+Energy demand by mineral,Germanium,All energy technologies,World,component,Current Policies scenario,2030,0.02,kt
+Energy demand by mineral,Germanium,All energy technologies,World,component,Current Policies scenario,2035,0.01,kt
+Energy demand by mineral,Germanium,All energy technologies,World,component,Current Policies scenario,2040,0.01,kt
+Energy demand by mineral,Germanium,All energy technologies,World,component,Current Policies scenario,2045,0.01,kt
+Energy demand by mineral,Germanium,All energy technologies,World,component,Current Policies scenario,2050,0.01,kt
+Energy demand by mineral,Germanium,All energy technologies,World,component,Stated Policies scenario,2030,0.02,kt
+Energy demand by mineral,Germanium,All energy technologies,World,component,Stated Policies scenario,2035,0.02,kt
+Energy demand by mineral,Germanium,All energy technologies,World,component,Stated Policies scenario,2040,0.01,kt
+Energy demand by mineral,Germanium,All energy technologies,World,component,Stated Policies scenario,2045,0.02,kt
+Energy demand by mineral,Germanium,All energy technologies,World,component,Stated Policies scenario,2050,0.02,kt
+Energy demand by mineral,Germanium,All energy technologies,World,component,High Demand Scenario,2030,0.02,kt
+Energy demand by mineral,Germanium,All energy technologies,World,component,High Demand Scenario,2035,0.02,kt
+Energy demand by mineral,Germanium,All energy technologies,World,component,High Demand Scenario,2040,0.02,kt
+Energy demand by mineral,Germanium,All energy technologies,World,component,High Demand Scenario,2045,0.01,kt
+Energy demand by mineral,Germanium,All energy technologies,World,component,High Demand Scenario,2050,0.01,kt
+Energy demand by mineral,Battery-grade graphite,All energy technologies,World,component,Base year (all scenarios),2025,"1,462.00",kt
+Energy demand by mineral,Battery-grade graphite,All energy technologies,World,component,Current Policies scenario,2030,"2,917.00",kt
+Energy demand by mineral,Battery-grade graphite,All energy technologies,World,component,Current Policies scenario,2035,"3,675.00",kt
+Energy demand by mineral,Battery-grade graphite,All energy technologies,World,component,Current Policies scenario,2040,"3,295.00",kt
+Energy demand by mineral,Battery-grade graphite,All energy technologies,World,component,Current Policies scenario,2045,"2,606.00",kt
+Energy demand by mineral,Battery-grade graphite,All energy technologies,World,component,Current Policies scenario,2050,"2,166.00",kt
+Energy demand by mineral,Battery-grade graphite,All energy technologies,World,component,Stated Policies scenario,2030,"3,182.00",kt
+Energy demand by mineral,Battery-grade graphite,All energy technologies,World,component,Stated Policies scenario,2035,"4,318.00",kt
+Energy demand by mineral,Battery-grade graphite,All energy technologies,World,component,Stated Policies scenario,2040,"4,186.00",kt
+Energy demand by mineral,Battery-grade graphite,All energy technologies,World,component,Stated Policies scenario,2045,"3,452.00",kt
+Energy demand by mineral,Battery-grade graphite,All energy technologies,World,component,Stated Policies scenario,2050,"3,014.00",kt
+Energy demand by mineral,Battery-grade graphite,All energy technologies,World,component,High Demand Scenario,2030,"3,556.00",kt
+Energy demand by mineral,Battery-grade graphite,All energy technologies,World,component,High Demand Scenario,2035,"5,313.00",kt
+Energy demand by mineral,Battery-grade graphite,All energy technologies,World,component,High Demand Scenario,2040,"5,647.00",kt
+Energy demand by mineral,Battery-grade graphite,All energy technologies,World,component,High Demand Scenario,2045,"4,608.00",kt
+Energy demand by mineral,Battery-grade graphite,All energy technologies,World,component,High Demand Scenario,2050,"4,153.00",kt
+Energy demand by mineral,Hafnium,All energy technologies,World,component,Base year (all scenarios),2025,0.00,kt
+Energy demand by mineral,Hafnium,All energy technologies,World,component,Current Policies scenario,2030,0.01,kt
+Energy demand by mineral,Hafnium,All energy technologies,World,component,Current Policies scenario,2035,0.01,kt
+Energy demand by mineral,Hafnium,All energy technologies,World,component,Current Policies scenario,2040,0.01,kt
+Energy demand by mineral,Hafnium,All energy technologies,World,component,Current Policies scenario,2045,0.01,kt
+Energy demand by mineral,Hafnium,All energy technologies,World,component,Current Policies scenario,2050,0.01,kt
+Energy demand by mineral,Hafnium,All energy technologies,World,component,Stated Policies scenario,2030,0.01,kt
+Energy demand by mineral,Hafnium,All energy technologies,World,component,Stated Policies scenario,2035,0.01,kt
+Energy demand by mineral,Hafnium,All energy technologies,World,component,Stated Policies scenario,2040,0.01,kt
+Energy demand by mineral,Hafnium,All energy technologies,World,component,Stated Policies scenario,2045,0.01,kt
+Energy demand by mineral,Hafnium,All energy technologies,World,component,Stated Policies scenario,2050,0.01,kt
+Energy demand by mineral,Hafnium,All energy technologies,World,component,High Demand Scenario,2030,0.02,kt
+Energy demand by mineral,Hafnium,All energy technologies,World,component,High Demand Scenario,2035,0.02,kt
+Energy demand by mineral,Hafnium,All energy technologies,World,component,High Demand Scenario,2040,0.01,kt
+Energy demand by mineral,Hafnium,All energy technologies,World,component,High Demand Scenario,2045,0.01,kt
+Energy demand by mineral,Hafnium,All energy technologies,World,component,High Demand Scenario,2050,0.01,kt
+Energy demand by mineral,Indium,All energy technologies,World,component,Base year (all scenarios),2025,0.10,kt
+Energy demand by mineral,Indium,All energy technologies,World,component,Current Policies scenario,2030,0.13,kt
+Energy demand by mineral,Indium,All energy technologies,World,component,Current Policies scenario,2035,0.13,kt
+Energy demand by mineral,Indium,All energy technologies,World,component,Current Policies scenario,2040,0.17,kt
+Energy demand by mineral,Indium,All energy technologies,World,component,Current Policies scenario,2045,0.17,kt
+Energy demand by mineral,Indium,All energy technologies,World,component,Current Policies scenario,2050,0.16,kt
+Energy demand by mineral,Indium,All energy technologies,World,component,Stated Policies scenario,2030,0.14,kt
+Energy demand by mineral,Indium,All energy technologies,World,component,Stated Policies scenario,2035,0.15,kt
+Energy demand by mineral,Indium,All energy technologies,World,component,Stated Policies scenario,2040,0.21,kt
+Energy demand by mineral,Indium,All energy technologies,World,component,Stated Policies scenario,2045,0.20,kt
+Energy demand by mineral,Indium,All energy technologies,World,component,Stated Policies scenario,2050,0.18,kt
+Energy demand by mineral,Indium,All energy technologies,World,component,High Demand Scenario,2030,0.16,kt
+Energy demand by mineral,Indium,All energy technologies,World,component,High Demand Scenario,2035,0.17,kt
+Energy demand by mineral,Indium,All energy technologies,World,component,High Demand Scenario,2040,0.23,kt
+Energy demand by mineral,Indium,All energy technologies,World,component,High Demand Scenario,2045,0.20,kt
+Energy demand by mineral,Indium,All energy technologies,World,component,High Demand Scenario,2050,0.20,kt
+Energy demand by mineral,Iridium,All energy technologies,World,component,Base year (all scenarios),2025,0.00,kt
+Energy demand by mineral,Iridium,All energy technologies,World,component,Current Policies scenario,2030,0.00,kt
+Energy demand by mineral,Iridium,All energy technologies,World,component,Current Policies scenario,2035,0.00,kt
+Energy demand by mineral,Iridium,All energy technologies,World,component,Current Policies scenario,2040,0.00,kt
+Energy demand by mineral,Iridium,All energy technologies,World,component,Current Policies scenario,2045,0.00,kt
+Energy demand by mineral,Iridium,All energy technologies,World,component,Current Policies scenario,2050,0.00,kt
+Energy demand by mineral,Iridium,All energy technologies,World,component,Stated Policies scenario,2030,0.00,kt
+Energy demand by mineral,Iridium,All energy technologies,World,component,Stated Policies scenario,2035,0.00,kt
+Energy demand by mineral,Iridium,All energy technologies,World,component,Stated Policies scenario,2040,0.00,kt
+Energy demand by mineral,Iridium,All energy technologies,World,component,Stated Policies scenario,2045,0.00,kt
+Energy demand by mineral,Iridium,All energy technologies,World,component,Stated Policies scenario,2050,0.00,kt
+Energy demand by mineral,Iridium,All energy technologies,World,component,High Demand Scenario,2030,0.00,kt
+Energy demand by mineral,Iridium,All energy technologies,World,component,High Demand Scenario,2035,0.00,kt
+Energy demand by mineral,Iridium,All energy technologies,World,component,High Demand Scenario,2040,0.00,kt
+Energy demand by mineral,Iridium,All energy technologies,World,component,High Demand Scenario,2045,0.00,kt
+Energy demand by mineral,Iridium,All energy technologies,World,component,High Demand Scenario,2050,0.00,kt
+Energy demand by mineral,Lead,All energy technologies,World,component,Base year (all scenarios),2025,13.40,kt
+Energy demand by mineral,Lead,All energy technologies,World,component,Current Policies scenario,2030,19.40,kt
+Energy demand by mineral,Lead,All energy technologies,World,component,Current Policies scenario,2035,15.40,kt
+Energy demand by mineral,Lead,All energy technologies,World,component,Current Policies scenario,2040,15.60,kt
+Energy demand by mineral,Lead,All energy technologies,World,component,Current Policies scenario,2045,18.90,kt
+Energy demand by mineral,Lead,All energy technologies,World,component,Current Policies scenario,2050,19.30,kt
+Energy demand by mineral,Lead,All energy technologies,World,component,Stated Policies scenario,2030,20.60,kt
+Energy demand by mineral,Lead,All energy technologies,World,component,Stated Policies scenario,2035,17.00,kt
+Energy demand by mineral,Lead,All energy technologies,World,component,Stated Policies scenario,2040,17.60,kt
+Energy demand by mineral,Lead,All energy technologies,World,component,Stated Policies scenario,2045,20.60,kt
+Energy demand by mineral,Lead,All energy technologies,World,component,Stated Policies scenario,2050,20.70,kt
+Energy demand by mineral,Lead,All energy technologies,World,component,High Demand Scenario,2030,24.00,kt
+Energy demand by mineral,Lead,All energy technologies,World,component,High Demand Scenario,2035,18.60,kt
+Energy demand by mineral,Lead,All energy technologies,World,component,High Demand Scenario,2040,17.40,kt
+Energy demand by mineral,Lead,All energy technologies,World,component,High Demand Scenario,2045,19.30,kt
+Energy demand by mineral,Lead,All energy technologies,World,component,High Demand Scenario,2050,19.30,kt
+Energy demand by mineral,Lithium,All energy technologies,World,component,Base year (all scenarios),2025,203.00,kt
+Energy demand by mineral,Lithium,All energy technologies,World,component,Current Policies scenario,2030,368.00,kt
+Energy demand by mineral,Lithium,All energy technologies,World,component,Current Policies scenario,2035,528.00,kt
+Energy demand by mineral,Lithium,All energy technologies,World,component,Current Policies scenario,2040,652.00,kt
+Energy demand by mineral,Lithium,All energy technologies,World,component,Current Policies scenario,2045,710.00,kt
+Energy demand by mineral,Lithium,All energy technologies,World,component,Current Policies scenario,2050,708.00,kt
+Energy demand by mineral,Lithium,All energy technologies,World,component,Stated Policies scenario,2030,407.00,kt
+Energy demand by mineral,Lithium,All energy technologies,World,component,Stated Policies scenario,2035,632.00,kt
+Energy demand by mineral,Lithium,All energy technologies,World,component,Stated Policies scenario,2040,836.00,kt
+Energy demand by mineral,Lithium,All energy technologies,World,component,Stated Policies scenario,2045,960.00,kt
+Energy demand by mineral,Lithium,All energy technologies,World,component,Stated Policies scenario,2050,"1,002.00",kt
+Energy demand by mineral,Lithium,All energy technologies,World,component,High Demand Scenario,2030,470.00,kt
+Energy demand by mineral,Lithium,All energy technologies,World,component,High Demand Scenario,2035,795.00,kt
+Energy demand by mineral,Lithium,All energy technologies,World,component,High Demand Scenario,2040,"1,131.00",kt
+Energy demand by mineral,Lithium,All energy technologies,World,component,High Demand Scenario,2045,"1,302.00",kt
+Energy demand by mineral,Lithium,All energy technologies,World,component,High Demand Scenario,2050,"1,381.00",kt
+Energy demand by mineral,Magnesium,All energy technologies,World,component,Base year (all scenarios),2025,3.61,kt
+Energy demand by mineral,Magnesium,All energy technologies,World,component,Current Policies scenario,2030,5.63,kt
+Energy demand by mineral,Magnesium,All energy technologies,World,component,Current Policies scenario,2035,9.80,kt
+Energy demand by mineral,Magnesium,All energy technologies,World,component,Current Policies scenario,2040,11.10,kt
+Energy demand by mineral,Magnesium,All energy technologies,World,component,Current Policies scenario,2045,12.00,kt
+Energy demand by mineral,Magnesium,All energy technologies,World,component,Current Policies scenario,2050,12.20,kt
+Energy demand by mineral,Magnesium,All energy technologies,World,component,Stated Policies scenario,2030,5.69,kt
+Energy demand by mineral,Magnesium,All energy technologies,World,component,Stated Policies scenario,2035,10.20,kt
+Energy demand by mineral,Magnesium,All energy technologies,World,component,Stated Policies scenario,2040,11.70,kt
+Energy demand by mineral,Magnesium,All energy technologies,World,component,Stated Policies scenario,2045,12.60,kt
+Energy demand by mineral,Magnesium,All energy technologies,World,component,Stated Policies scenario,2050,12.80,kt
+Energy demand by mineral,Magnesium,All energy technologies,World,component,High Demand Scenario,2030,11.40,kt
+Energy demand by mineral,Magnesium,All energy technologies,World,component,High Demand Scenario,2035,27.10,kt
+Energy demand by mineral,Magnesium,All energy technologies,World,component,High Demand Scenario,2040,29.90,kt
+Energy demand by mineral,Magnesium,All energy technologies,World,component,High Demand Scenario,2045,31.00,kt
+Energy demand by mineral,Magnesium,All energy technologies,World,component,High Demand Scenario,2050,24.30,kt
+Energy demand by mineral,Manganese,All energy technologies,World,component,Base year (all scenarios),2025,197.00,kt
+Energy demand by mineral,Manganese,All energy technologies,World,component,Current Policies scenario,2030,574.00,kt
+Energy demand by mineral,Manganese,All energy technologies,World,component,Current Policies scenario,2035,"1,045.00",kt
+Energy demand by mineral,Manganese,All energy technologies,World,component,Current Policies scenario,2040,"1,560.00",kt
+Energy demand by mineral,Manganese,All energy technologies,World,component,Current Policies scenario,2045,"2,046.00",kt
+Energy demand by mineral,Manganese,All energy technologies,World,component,Current Policies scenario,2050,"2,303.00",kt
+Energy demand by mineral,Manganese,All energy technologies,World,component,Stated Policies scenario,2030,559.00,kt
+Energy demand by mineral,Manganese,All energy technologies,World,component,Stated Policies scenario,2035,"1,109.00",kt
+Energy demand by mineral,Manganese,All energy technologies,World,component,Stated Policies scenario,2040,"1,834.00",kt
+Energy demand by mineral,Manganese,All energy technologies,World,component,Stated Policies scenario,2045,"2,598.00",kt
+Energy demand by mineral,Manganese,All energy technologies,World,component,Stated Policies scenario,2050,"3,160.00",kt
+Energy demand by mineral,Manganese,All energy technologies,World,component,High Demand Scenario,2030,679.00,kt
+Energy demand by mineral,Manganese,All energy technologies,World,component,High Demand Scenario,2035,"1,414.00",kt
+Energy demand by mineral,Manganese,All energy technologies,World,component,High Demand Scenario,2040,"2,509.00",kt
+Energy demand by mineral,Manganese,All energy technologies,World,component,High Demand Scenario,2045,"3,497.00",kt
+Energy demand by mineral,Manganese,All energy technologies,World,component,High Demand Scenario,2050,"4,376.00",kt
+Energy demand by mineral,Molybdenum,All energy technologies,World,component,Base year (all scenarios),2025,30.10,kt
+Energy demand by mineral,Molybdenum,All energy technologies,World,component,Current Policies scenario,2030,45.30,kt
+Energy demand by mineral,Molybdenum,All energy technologies,World,component,Current Policies scenario,2035,43.10,kt
+Energy demand by mineral,Molybdenum,All energy technologies,World,component,Current Policies scenario,2040,41.40,kt
+Energy demand by mineral,Molybdenum,All energy technologies,World,component,Current Policies scenario,2045,45.60,kt
+Energy demand by mineral,Molybdenum,All energy technologies,World,component,Current Policies scenario,2050,45.80,kt
+Energy demand by mineral,Molybdenum,All energy technologies,World,component,Stated Policies scenario,2030,50.90,kt
+Energy demand by mineral,Molybdenum,All energy technologies,World,component,Stated Policies scenario,2035,47.90,kt
+Energy demand by mineral,Molybdenum,All energy technologies,World,component,Stated Policies scenario,2040,45.50,kt
+Energy demand by mineral,Molybdenum,All energy technologies,World,component,Stated Policies scenario,2045,49.20,kt
+Energy demand by mineral,Molybdenum,All energy technologies,World,component,Stated Policies scenario,2050,50.00,kt
+Energy demand by mineral,Molybdenum,All energy technologies,World,component,High Demand Scenario,2030,65.80,kt
+Energy demand by mineral,Molybdenum,All energy technologies,World,component,High Demand Scenario,2035,58.60,kt
+Energy demand by mineral,Molybdenum,All energy technologies,World,component,High Demand Scenario,2040,57.60,kt
+Energy demand by mineral,Molybdenum,All energy technologies,World,component,High Demand Scenario,2045,58.90,kt
+Energy demand by mineral,Molybdenum,All energy technologies,World,component,High Demand Scenario,2050,73.60,kt
+Energy demand by mineral,Nickel,All energy technologies,World,component,Base year (all scenarios),2025,625.00,kt
+Energy demand by mineral,Nickel,All energy technologies,World,component,Current Policies scenario,2030,"1,276.00",kt
+Energy demand by mineral,Nickel,All energy technologies,World,component,Current Policies scenario,2035,"1,738.00",kt
+Energy demand by mineral,Nickel,All energy technologies,World,component,Current Policies scenario,2040,"1,932.00",kt
+Energy demand by mineral,Nickel,All energy technologies,World,component,Current Policies scenario,2045,"2,048.00",kt
+Energy demand by mineral,Nickel,All energy technologies,World,component,Current Policies scenario,2050,"2,051.00",kt
+Energy demand by mineral,Nickel,All energy technologies,World,component,Stated Policies scenario,2030,"1,409.00",kt
+Energy demand by mineral,Nickel,All energy technologies,World,component,Stated Policies scenario,2035,"2,037.00",kt
+Energy demand by mineral,Nickel,All energy technologies,World,component,Stated Policies scenario,2040,"2,403.00",kt
+Energy demand by mineral,Nickel,All energy technologies,World,component,Stated Policies scenario,2045,"2,656.00",kt
+Energy demand by mineral,Nickel,All energy technologies,World,component,Stated Policies scenario,2050,"2,763.00",kt
+Energy demand by mineral,Nickel,All energy technologies,World,component,High Demand Scenario,2030,"1,698.00",kt
+Energy demand by mineral,Nickel,All energy technologies,World,component,High Demand Scenario,2035,"2,560.00",kt
+Energy demand by mineral,Nickel,All energy technologies,World,component,High Demand Scenario,2040,"3,253.00",kt
+Energy demand by mineral,Nickel,All energy technologies,World,component,High Demand Scenario,2045,"3,600.00",kt
+Energy demand by mineral,Nickel,All energy technologies,World,component,High Demand Scenario,2050,"3,963.00",kt
+Energy demand by mineral,Niobium,All energy technologies,World,component,Base year (all scenarios),2025,0.15,kt
+Energy demand by mineral,Niobium,All energy technologies,World,component,Current Policies scenario,2030,0.37,kt
+Energy demand by mineral,Niobium,All energy technologies,World,component,Current Policies scenario,2035,0.63,kt
+Energy demand by mineral,Niobium,All energy technologies,World,component,Current Policies scenario,2040,0.69,kt
+Energy demand by mineral,Niobium,All energy technologies,World,component,Current Policies scenario,2045,0.67,kt
+Energy demand by mineral,Niobium,All energy technologies,World,component,Current Policies scenario,2050,0.64,kt
+Energy demand by mineral,Niobium,All energy technologies,World,component,Stated Policies scenario,2030,0.40,kt
+Energy demand by mineral,Niobium,All energy technologies,World,component,Stated Policies scenario,2035,0.67,kt
+Energy demand by mineral,Niobium,All energy technologies,World,component,Stated Policies scenario,2040,0.74,kt
+Energy demand by mineral,Niobium,All energy technologies,World,component,Stated Policies scenario,2045,0.72,kt
+Energy demand by mineral,Niobium,All energy technologies,World,component,Stated Policies scenario,2050,0.68,kt
+Energy demand by mineral,Niobium,All energy technologies,World,component,High Demand Scenario,2030,0.74,kt
+Energy demand by mineral,Niobium,All energy technologies,World,component,High Demand Scenario,2035,1.50,kt
+Energy demand by mineral,Niobium,All energy technologies,World,component,High Demand Scenario,2040,1.69,kt
+Energy demand by mineral,Niobium,All energy technologies,World,component,High Demand Scenario,2045,1.67,kt
+Energy demand by mineral,Niobium,All energy technologies,World,component,High Demand Scenario,2050,1.48,kt
+Energy demand by mineral,PGMs (other than iridum),All energy technologies,World,component,Base year (all scenarios),2025,0.00,kt
+Energy demand by mineral,PGMs (other than iridum),All energy technologies,World,component,Current Policies scenario,2030,0.00,kt
+Energy demand by mineral,PGMs (other than iridum),All energy technologies,World,component,Current Policies scenario,2035,0.01,kt
+Energy demand by mineral,PGMs (other than iridum),All energy technologies,World,component,Current Policies scenario,2040,0.01,kt
+Energy demand by mineral,PGMs (other than iridum),All energy technologies,World,component,Current Policies scenario,2045,0.01,kt
+Energy demand by mineral,PGMs (other than iridum),All energy technologies,World,component,Current Policies scenario,2050,0.01,kt
+Energy demand by mineral,PGMs (other than iridum),All energy technologies,World,component,Stated Policies scenario,2030,0.01,kt
+Energy demand by mineral,PGMs (other than iridum),All energy technologies,World,component,Stated Policies scenario,2035,0.01,kt
+Energy demand by mineral,PGMs (other than iridum),All energy technologies,World,component,Stated Policies scenario,2040,0.01,kt
+Energy demand by mineral,PGMs (other than iridum),All energy technologies,World,component,Stated Policies scenario,2045,0.02,kt
+Energy demand by mineral,PGMs (other than iridum),All energy technologies,World,component,Stated Policies scenario,2050,0.01,kt
+Energy demand by mineral,PGMs (other than iridum),All energy technologies,World,component,High Demand Scenario,2030,0.01,kt
+Energy demand by mineral,PGMs (other than iridum),All energy technologies,World,component,High Demand Scenario,2035,0.03,kt
+Energy demand by mineral,PGMs (other than iridum),All energy technologies,World,component,High Demand Scenario,2040,0.06,kt
+Energy demand by mineral,PGMs (other than iridum),All energy technologies,World,component,High Demand Scenario,2045,0.06,kt
+Energy demand by mineral,PGMs (other than iridum),All energy technologies,World,component,High Demand Scenario,2050,0.05,kt
+Energy demand by mineral,Selenium,All energy technologies,World,component,Base year (all scenarios),2025,0.21,kt
+Energy demand by mineral,Selenium,All energy technologies,World,component,Current Policies scenario,2030,0.18,kt
+Energy demand by mineral,Selenium,All energy technologies,World,component,Current Policies scenario,2035,0.14,kt
+Energy demand by mineral,Selenium,All energy technologies,World,component,Current Policies scenario,2040,0.13,kt
+Energy demand by mineral,Selenium,All energy technologies,World,component,Current Policies scenario,2045,0.12,kt
+Energy demand by mineral,Selenium,All energy technologies,World,component,Current Policies scenario,2050,0.09,kt
+Energy demand by mineral,Selenium,All energy technologies,World,component,Stated Policies scenario,2030,0.19,kt
+Energy demand by mineral,Selenium,All energy technologies,World,component,Stated Policies scenario,2035,0.17,kt
+Energy demand by mineral,Selenium,All energy technologies,World,component,Stated Policies scenario,2040,0.16,kt
+Energy demand by mineral,Selenium,All energy technologies,World,component,Stated Policies scenario,2045,0.13,kt
+Energy demand by mineral,Selenium,All energy technologies,World,component,Stated Policies scenario,2050,0.10,kt
+Energy demand by mineral,Selenium,All energy technologies,World,component,High Demand Scenario,2030,0.24,kt
+Energy demand by mineral,Selenium,All energy technologies,World,component,High Demand Scenario,2035,0.21,kt
+Energy demand by mineral,Selenium,All energy technologies,World,component,High Demand Scenario,2040,0.18,kt
+Energy demand by mineral,Selenium,All energy technologies,World,component,High Demand Scenario,2045,0.12,kt
+Energy demand by mineral,Selenium,All energy technologies,World,component,High Demand Scenario,2050,0.10,kt
+Energy demand by mineral,Silicon,All energy technologies,World,component,Base year (all scenarios),2025,"1,705.00",kt
+Energy demand by mineral,Silicon,All energy technologies,World,component,Current Policies scenario,2030,"1,489.00",kt
+Energy demand by mineral,Silicon,All energy technologies,World,component,Current Policies scenario,2035,"1,321.00",kt
+Energy demand by mineral,Silicon,All energy technologies,World,component,Current Policies scenario,2040,"1,408.00",kt
+Energy demand by mineral,Silicon,All energy technologies,World,component,Current Policies scenario,2045,"1,633.00",kt
+Energy demand by mineral,Silicon,All energy technologies,World,component,Current Policies scenario,2050,"1,711.00",kt
+Energy demand by mineral,Silicon,All energy technologies,World,component,Stated Policies scenario,2030,"1,616.00",kt
+Energy demand by mineral,Silicon,All energy technologies,World,component,Stated Policies scenario,2035,"1,637.00",kt
+Energy demand by mineral,Silicon,All energy technologies,World,component,Stated Policies scenario,2040,"1,781.00",kt
+Energy demand by mineral,Silicon,All energy technologies,World,component,Stated Policies scenario,2045,"1,952.00",kt
+Energy demand by mineral,Silicon,All energy technologies,World,component,Stated Policies scenario,2050,"2,038.00",kt
+Energy demand by mineral,Silicon,All energy technologies,World,component,High Demand Scenario,2030,"2,035.00",kt
+Energy demand by mineral,Silicon,All energy technologies,World,component,High Demand Scenario,2035,"2,067.00",kt
+Energy demand by mineral,Silicon,All energy technologies,World,component,High Demand Scenario,2040,"2,174.00",kt
+Energy demand by mineral,Silicon,All energy technologies,World,component,High Demand Scenario,2045,"2,254.00",kt
+Energy demand by mineral,Silicon,All energy technologies,World,component,High Demand Scenario,2050,"2,570.00",kt
+Energy demand by mineral,Silver,All energy technologies,World,component,Base year (all scenarios),2025,10.10,kt
+Energy demand by mineral,Silver,All energy technologies,World,component,Current Policies scenario,2030,9.00,kt
+Energy demand by mineral,Silver,All energy technologies,World,component,Current Policies scenario,2035,6.44,kt
+Energy demand by mineral,Silver,All energy technologies,World,component,Current Policies scenario,2040,5.19,kt
+Energy demand by mineral,Silver,All energy technologies,World,component,Current Policies scenario,2045,4.30,kt
+Energy demand by mineral,Silver,All energy technologies,World,component,Current Policies scenario,2050,2.97,kt
+Energy demand by mineral,Silver,All energy technologies,World,component,Stated Policies scenario,2030,9.83,kt
+Energy demand by mineral,Silver,All energy technologies,World,component,Stated Policies scenario,2035,8.03,kt
+Energy demand by mineral,Silver,All energy technologies,World,component,Stated Policies scenario,2040,6.56,kt
+Energy demand by mineral,Silver,All energy technologies,World,component,Stated Policies scenario,2045,5.00,kt
+Energy demand by mineral,Silver,All energy technologies,World,component,Stated Policies scenario,2050,3.27,kt
+Energy demand by mineral,Silver,All energy technologies,World,component,High Demand Scenario,2030,12.20,kt
+Energy demand by mineral,Silver,All energy technologies,World,component,High Demand Scenario,2035,9.82,kt
+Energy demand by mineral,Silver,All energy technologies,World,component,High Demand Scenario,2040,7.24,kt
+Energy demand by mineral,Silver,All energy technologies,World,component,High Demand Scenario,2045,4.58,kt
+Energy demand by mineral,Silver,All energy technologies,World,component,High Demand Scenario,2050,2.61,kt
+Energy demand by mineral,Tantalum,All energy technologies,World,component,Base year (all scenarios),2025,0.06,kt
+Energy demand by mineral,Tantalum,All energy technologies,World,component,Current Policies scenario,2030,0.13,kt
+Energy demand by mineral,Tantalum,All energy technologies,World,component,Current Policies scenario,2035,0.15,kt
+Energy demand by mineral,Tantalum,All energy technologies,World,component,Current Policies scenario,2040,0.15,kt
+Energy demand by mineral,Tantalum,All energy technologies,World,component,Current Policies scenario,2045,0.15,kt
+Energy demand by mineral,Tantalum,All energy technologies,World,component,Current Policies scenario,2050,0.13,kt
+Energy demand by mineral,Tantalum,All energy technologies,World,component,Stated Policies scenario,2030,0.15,kt
+Energy demand by mineral,Tantalum,All energy technologies,World,component,Stated Policies scenario,2035,0.16,kt
+Energy demand by mineral,Tantalum,All energy technologies,World,component,Stated Policies scenario,2040,0.16,kt
+Energy demand by mineral,Tantalum,All energy technologies,World,component,Stated Policies scenario,2045,0.16,kt
+Energy demand by mineral,Tantalum,All energy technologies,World,component,Stated Policies scenario,2050,0.14,kt
+Energy demand by mineral,Tantalum,All energy technologies,World,component,High Demand Scenario,2030,0.19,kt
+Energy demand by mineral,Tantalum,All energy technologies,World,component,High Demand Scenario,2035,0.18,kt
+Energy demand by mineral,Tantalum,All energy technologies,World,component,High Demand Scenario,2040,0.21,kt
+Energy demand by mineral,Tantalum,All energy technologies,World,component,High Demand Scenario,2045,0.19,kt
+Energy demand by mineral,Tantalum,All energy technologies,World,component,High Demand Scenario,2050,0.26,kt
+Energy demand by mineral,Tellurium,All energy technologies,World,component,Base year (all scenarios),2025,1.06,kt
+Energy demand by mineral,Tellurium,All energy technologies,World,component,Current Policies scenario,2030,0.81,kt
+Energy demand by mineral,Tellurium,All energy technologies,World,component,Current Policies scenario,2035,0.67,kt
+Energy demand by mineral,Tellurium,All energy technologies,World,component,Current Policies scenario,2040,0.65,kt
+Energy demand by mineral,Tellurium,All energy technologies,World,component,Current Policies scenario,2045,0.65,kt
+Energy demand by mineral,Tellurium,All energy technologies,World,component,Current Policies scenario,2050,0.61,kt
+Energy demand by mineral,Tellurium,All energy technologies,World,component,Stated Policies scenario,2030,0.89,kt
+Energy demand by mineral,Tellurium,All energy technologies,World,component,Stated Policies scenario,2035,0.84,kt
+Energy demand by mineral,Tellurium,All energy technologies,World,component,Stated Policies scenario,2040,0.82,kt
+Energy demand by mineral,Tellurium,All energy technologies,World,component,Stated Policies scenario,2045,0.77,kt
+Energy demand by mineral,Tellurium,All energy technologies,World,component,Stated Policies scenario,2050,0.68,kt
+Energy demand by mineral,Tellurium,All energy technologies,World,component,High Demand Scenario,2030,1.12,kt
+Energy demand by mineral,Tellurium,All energy technologies,World,component,High Demand Scenario,2035,1.06,kt
+Energy demand by mineral,Tellurium,All energy technologies,World,component,High Demand Scenario,2040,0.96,kt
+Energy demand by mineral,Tellurium,All energy technologies,World,component,High Demand Scenario,2045,0.78,kt
+Energy demand by mineral,Tellurium,All energy technologies,World,component,High Demand Scenario,2050,0.74,kt
+Energy demand by mineral,Tin,All energy technologies,World,component,Base year (all scenarios),2025,3.47,kt
+Energy demand by mineral,Tin,All energy technologies,World,component,Current Policies scenario,2030,3.73,kt
+Energy demand by mineral,Tin,All energy technologies,World,component,Current Policies scenario,2035,3.23,kt
+Energy demand by mineral,Tin,All energy technologies,World,component,Current Policies scenario,2040,3.27,kt
+Energy demand by mineral,Tin,All energy technologies,World,component,Current Policies scenario,2045,3.64,kt
+Energy demand by mineral,Tin,All energy technologies,World,component,Current Policies scenario,2050,3.82,kt
+Energy demand by mineral,Tin,All energy technologies,World,component,Stated Policies scenario,2030,4.06,kt
+Energy demand by mineral,Tin,All energy technologies,World,component,Stated Policies scenario,2035,4.02,kt
+Energy demand by mineral,Tin,All energy technologies,World,component,Stated Policies scenario,2040,4.13,kt
+Energy demand by mineral,Tin,All energy technologies,World,component,Stated Policies scenario,2045,4.22,kt
+Energy demand by mineral,Tin,All energy technologies,World,component,Stated Policies scenario,2050,4.22,kt
+Energy demand by mineral,Tin,All energy technologies,World,component,High Demand Scenario,2030,5.18,kt
+Energy demand by mineral,Tin,All energy technologies,World,component,High Demand Scenario,2035,5.11,kt
+Energy demand by mineral,Tin,All energy technologies,World,component,High Demand Scenario,2040,4.93,kt
+Energy demand by mineral,Tin,All energy technologies,World,component,High Demand Scenario,2045,4.59,kt
+Energy demand by mineral,Tin,All energy technologies,World,component,High Demand Scenario,2050,5.11,kt
+Energy demand by mineral,Titanium,All energy technologies,World,component,Base year (all scenarios),2025,4.26,kt
+Energy demand by mineral,Titanium,All energy technologies,World,component,Current Policies scenario,2030,9.64,kt
+Energy demand by mineral,Titanium,All energy technologies,World,component,Current Policies scenario,2035,6.26,kt
+Energy demand by mineral,Titanium,All energy technologies,World,component,Current Policies scenario,2040,6.80,kt
+Energy demand by mineral,Titanium,All energy technologies,World,component,Current Policies scenario,2045,6.59,kt
+Energy demand by mineral,Titanium,All energy technologies,World,component,Current Policies scenario,2050,7.34,kt
+Energy demand by mineral,Titanium,All energy technologies,World,component,Stated Policies scenario,2030,10.30,kt
+Energy demand by mineral,Titanium,All energy technologies,World,component,Stated Policies scenario,2035,6.77,kt
+Energy demand by mineral,Titanium,All energy technologies,World,component,Stated Policies scenario,2040,7.32,kt
+Energy demand by mineral,Titanium,All energy technologies,World,component,Stated Policies scenario,2045,7.06,kt
+Energy demand by mineral,Titanium,All energy technologies,World,component,Stated Policies scenario,2050,7.79,kt
+Energy demand by mineral,Titanium,All energy technologies,World,component,High Demand Scenario,2030,12.80,kt
+Energy demand by mineral,Titanium,All energy technologies,World,component,High Demand Scenario,2035,12.00,kt
+Energy demand by mineral,Titanium,All energy technologies,World,component,High Demand Scenario,2040,11.60,kt
+Energy demand by mineral,Titanium,All energy technologies,World,component,High Demand Scenario,2045,10.50,kt
+Energy demand by mineral,Titanium,All energy technologies,World,component,High Demand Scenario,2050,12.50,kt
+Energy demand by mineral,Tungsten,All energy technologies,World,component,Base year (all scenarios),2025,0.03,kt
+Energy demand by mineral,Tungsten,All energy technologies,World,component,Current Policies scenario,2030,0.12,kt
+Energy demand by mineral,Tungsten,All energy technologies,World,component,Current Policies scenario,2035,0.13,kt
+Energy demand by mineral,Tungsten,All energy technologies,World,component,Current Policies scenario,2040,0.12,kt
+Energy demand by mineral,Tungsten,All energy technologies,World,component,Current Policies scenario,2045,0.10,kt
+Energy demand by mineral,Tungsten,All energy technologies,World,component,Current Policies scenario,2050,0.08,kt
+Energy demand by mineral,Tungsten,All energy technologies,World,component,Stated Policies scenario,2030,0.13,kt
+Energy demand by mineral,Tungsten,All energy technologies,World,component,Stated Policies scenario,2035,0.15,kt
+Energy demand by mineral,Tungsten,All energy technologies,World,component,Stated Policies scenario,2040,0.13,kt
+Energy demand by mineral,Tungsten,All energy technologies,World,component,Stated Policies scenario,2045,0.11,kt
+Energy demand by mineral,Tungsten,All energy technologies,World,component,Stated Policies scenario,2050,0.09,kt
+Energy demand by mineral,Tungsten,All energy technologies,World,component,High Demand Scenario,2030,0.19,kt
+Energy demand by mineral,Tungsten,All energy technologies,World,component,High Demand Scenario,2035,0.18,kt
+Energy demand by mineral,Tungsten,All energy technologies,World,component,High Demand Scenario,2040,0.12,kt
+Energy demand by mineral,Tungsten,All energy technologies,World,component,High Demand Scenario,2045,0.12,kt
+Energy demand by mineral,Tungsten,All energy technologies,World,component,High Demand Scenario,2050,0.07,kt
+Energy demand by mineral,Vanadium,All energy technologies,World,component,Base year (all scenarios),2025,0.00,kt
+Energy demand by mineral,Vanadium,All energy technologies,World,component,Current Policies scenario,2030,22.50,kt
+Energy demand by mineral,Vanadium,All energy technologies,World,component,Current Policies scenario,2035,176.00,kt
+Energy demand by mineral,Vanadium,All energy technologies,World,component,Current Policies scenario,2040,309.00,kt
+Energy demand by mineral,Vanadium,All energy technologies,World,component,Current Policies scenario,2045,396.00,kt
+Energy demand by mineral,Vanadium,All energy technologies,World,component,Current Policies scenario,2050,441.00,kt
+Energy demand by mineral,Vanadium,All energy technologies,World,component,Stated Policies scenario,2030,27.00,kt
+Energy demand by mineral,Vanadium,All energy technologies,World,component,Stated Policies scenario,2035,204.00,kt
+Energy demand by mineral,Vanadium,All energy technologies,World,component,Stated Policies scenario,2040,384.00,kt
+Energy demand by mineral,Vanadium,All energy technologies,World,component,Stated Policies scenario,2045,472.00,kt
+Energy demand by mineral,Vanadium,All energy technologies,World,component,Stated Policies scenario,2050,553.00,kt
+Energy demand by mineral,Vanadium,All energy technologies,World,component,High Demand Scenario,2030,32.10,kt
+Energy demand by mineral,Vanadium,All energy technologies,World,component,High Demand Scenario,2035,235.00,kt
+Energy demand by mineral,Vanadium,All energy technologies,World,component,High Demand Scenario,2040,511.00,kt
+Energy demand by mineral,Vanadium,All energy technologies,World,component,High Demand Scenario,2045,572.00,kt
+Energy demand by mineral,Vanadium,All energy technologies,World,component,High Demand Scenario,2050,740.00,kt
+Energy demand by mineral,Zinc,All energy technologies,World,component,Base year (all scenarios),2025,827.00,kt
+Energy demand by mineral,Zinc,All energy technologies,World,component,Current Policies scenario,2030,954.00,kt
+Energy demand by mineral,Zinc,All energy technologies,World,component,Current Policies scenario,2035,824.00,kt
+Energy demand by mineral,Zinc,All energy technologies,World,component,Current Policies scenario,2040,741.00,kt
+Energy demand by mineral,Zinc,All energy technologies,World,component,Current Policies scenario,2045,856.00,kt
+Energy demand by mineral,Zinc,All energy technologies,World,component,Current Policies scenario,2050,984.00,kt
+Energy demand by mineral,Zinc,All energy technologies,World,component,Stated Policies scenario,2030,"1,096.00",kt
+Energy demand by mineral,Zinc,All energy technologies,World,component,Stated Policies scenario,2035,951.00,kt
+Energy demand by mineral,Zinc,All energy technologies,World,component,Stated Policies scenario,2040,815.00,kt
+Energy demand by mineral,Zinc,All energy technologies,World,component,Stated Policies scenario,2045,917.00,kt
+Energy demand by mineral,Zinc,All energy technologies,World,component,Stated Policies scenario,2050,"1,086.00",kt
+Energy demand by mineral,Zinc,All energy technologies,World,component,High Demand Scenario,2030,"1,515.00",kt
+Energy demand by mineral,Zinc,All energy technologies,World,component,High Demand Scenario,2035,"1,390.00",kt
+Energy demand by mineral,Zinc,All energy technologies,World,component,High Demand Scenario,2040,"1,237.00",kt
+Energy demand by mineral,Zinc,All energy technologies,World,component,High Demand Scenario,2045,"1,284.00",kt
+Energy demand by mineral,Zinc,All energy technologies,World,component,High Demand Scenario,2050,"1,725.00",kt
+Energy demand by mineral,Zirconium,All energy technologies,World,component,Base year (all scenarios),2025,0.48,kt
+Energy demand by mineral,Zirconium,All energy technologies,World,component,Current Policies scenario,2030,1.39,kt
+Energy demand by mineral,Zirconium,All energy technologies,World,component,Current Policies scenario,2035,1.51,kt
+Energy demand by mineral,Zirconium,All energy technologies,World,component,Current Policies scenario,2040,1.26,kt
+Energy demand by mineral,Zirconium,All energy technologies,World,component,Current Policies scenario,2045,1.12,kt
+Energy demand by mineral,Zirconium,All energy technologies,World,component,Current Policies scenario,2050,1.21,kt
+Energy demand by mineral,Zirconium,All energy technologies,World,component,Stated Policies scenario,2030,1.41,kt
+Energy demand by mineral,Zirconium,All energy technologies,World,component,Stated Policies scenario,2035,1.60,kt
+Energy demand by mineral,Zirconium,All energy technologies,World,component,Stated Policies scenario,2040,1.36,kt
+Energy demand by mineral,Zirconium,All energy technologies,World,component,Stated Policies scenario,2045,1.21,kt
+Energy demand by mineral,Zirconium,All energy technologies,World,component,Stated Policies scenario,2050,1.30,kt
+Energy demand by mineral,Zirconium,All energy technologies,World,component,High Demand Scenario,2030,5.62,kt
+Energy demand by mineral,Zirconium,All energy technologies,World,component,High Demand Scenario,2035,5.47,kt
+Energy demand by mineral,Zirconium,All energy technologies,World,component,High Demand Scenario,2040,5.17,kt
+Energy demand by mineral,Zirconium,All energy technologies,World,component,High Demand Scenario,2045,6.89,kt
+Energy demand by mineral,Zirconium,All energy technologies,World,component,High Demand Scenario,2050,9.12,kt
+Energy demand by mineral,Arsenic,All energy technologies,World,component,Base year (all scenarios),2025,0.00,kt
+Energy demand by mineral,Arsenic,All energy technologies,World,component,Current Policies scenario,2030,0.42,kt
+Energy demand by mineral,Arsenic,All energy technologies,World,component,Current Policies scenario,2035,2.01,kt
+Energy demand by mineral,Arsenic,All energy technologies,World,component,Current Policies scenario,2040,11.50,kt
+Energy demand by mineral,Arsenic,All energy technologies,World,component,Current Policies scenario,2045,12.80,kt
+Energy demand by mineral,Arsenic,All energy technologies,World,component,Current Policies scenario,2050,13.60,kt
+Energy demand by mineral,Arsenic,All energy technologies,World,component,Stated Policies scenario,2030,0.46,kt
+Energy demand by mineral,Arsenic,All energy technologies,World,component,Stated Policies scenario,2035,2.52,kt
+Energy demand by mineral,Arsenic,All energy technologies,World,component,Stated Policies scenario,2040,14.50,kt
+Energy demand by mineral,Arsenic,All energy technologies,World,component,Stated Policies scenario,2045,14.90,kt
+Energy demand by mineral,Arsenic,All energy technologies,World,component,Stated Policies scenario,2050,15.00,kt
+Energy demand by mineral,Arsenic,All energy technologies,World,component,High Demand Scenario,2030,0.59,kt
+Energy demand by mineral,Arsenic,All energy technologies,World,component,High Demand Scenario,2035,3.28,kt
+Energy demand by mineral,Arsenic,All energy technologies,World,component,High Demand Scenario,2040,18.00,kt
+Energy demand by mineral,Arsenic,All energy technologies,World,component,High Demand Scenario,2045,16.90,kt
+Energy demand by mineral,Arsenic,All energy technologies,World,component,High Demand Scenario,2050,19.30,kt
+Energy demand by mineral,Neodymium,All energy technologies,World,component,Base year (all scenarios),2025,16.20,kt
+Energy demand by mineral,Neodymium,All energy technologies,World,component,Current Policies scenario,2030,25.70,kt
+Energy demand by mineral,Neodymium,All energy technologies,World,component,Current Policies scenario,2035,29.50,kt
+Energy demand by mineral,Neodymium,All energy technologies,World,component,Current Policies scenario,2040,27.80,kt
+Energy demand by mineral,Neodymium,All energy technologies,World,component,Current Policies scenario,2045,29.10,kt
+Energy demand by mineral,Neodymium,All energy technologies,World,component,Current Policies scenario,2050,30.90,kt
+Energy demand by mineral,Neodymium,All energy technologies,World,component,Stated Policies scenario,2030,28.30,kt
+Energy demand by mineral,Neodymium,All energy technologies,World,component,Stated Policies scenario,2035,34.30,kt
+Energy demand by mineral,Neodymium,All energy technologies,World,component,Stated Policies scenario,2040,34.60,kt
+Energy demand by mineral,Neodymium,All energy technologies,World,component,Stated Policies scenario,2045,38.50,kt
+Energy demand by mineral,Neodymium,All energy technologies,World,component,Stated Policies scenario,2050,43.60,kt
+Energy demand by mineral,Neodymium,All energy technologies,World,component,High Demand Scenario,2030,37.30,kt
+Energy demand by mineral,Neodymium,All energy technologies,World,component,High Demand Scenario,2035,46.30,kt
+Energy demand by mineral,Neodymium,All energy technologies,World,component,High Demand Scenario,2040,50.00,kt
+Energy demand by mineral,Neodymium,All energy technologies,World,component,High Demand Scenario,2045,54.20,kt
+Energy demand by mineral,Neodymium,All energy technologies,World,component,High Demand Scenario,2050,61.70,kt
+Energy demand by mineral,Dysprosium,All energy technologies,World,component,Base year (all scenarios),2025,1.71,kt
+Energy demand by mineral,Dysprosium,All energy technologies,World,component,Current Policies scenario,2030,2.62,kt
+Energy demand by mineral,Dysprosium,All energy technologies,World,component,Current Policies scenario,2035,2.94,kt
+Energy demand by mineral,Dysprosium,All energy technologies,World,component,Current Policies scenario,2040,2.78,kt
+Energy demand by mineral,Dysprosium,All energy technologies,World,component,Current Policies scenario,2045,2.92,kt
+Energy demand by mineral,Dysprosium,All energy technologies,World,component,Current Policies scenario,2050,3.10,kt
+Energy demand by mineral,Dysprosium,All energy technologies,World,component,Stated Policies scenario,2030,2.89,kt
+Energy demand by mineral,Dysprosium,All energy technologies,World,component,Stated Policies scenario,2035,3.42,kt
+Energy demand by mineral,Dysprosium,All energy technologies,World,component,Stated Policies scenario,2040,3.45,kt
+Energy demand by mineral,Dysprosium,All energy technologies,World,component,Stated Policies scenario,2045,3.85,kt
+Energy demand by mineral,Dysprosium,All energy technologies,World,component,Stated Policies scenario,2050,4.36,kt
+Energy demand by mineral,Dysprosium,All energy technologies,World,component,High Demand Scenario,2030,3.81,kt
+Energy demand by mineral,Dysprosium,All energy technologies,World,component,High Demand Scenario,2035,4.68,kt
+Energy demand by mineral,Dysprosium,All energy technologies,World,component,High Demand Scenario,2040,5.04,kt
+Energy demand by mineral,Dysprosium,All energy technologies,World,component,High Demand Scenario,2045,5.46,kt
+Energy demand by mineral,Dysprosium,All energy technologies,World,component,High Demand Scenario,2050,6.28,kt
+Energy demand by mineral,Praseodymium,All energy technologies,World,component,Base year (all scenarios),2025,2.53,kt
+Energy demand by mineral,Praseodymium,All energy technologies,World,component,Current Policies scenario,2030,4.07,kt
+Energy demand by mineral,Praseodymium,All energy technologies,World,component,Current Policies scenario,2035,4.73,kt
+Energy demand by mineral,Praseodymium,All energy technologies,World,component,Current Policies scenario,2040,4.41,kt
+Energy demand by mineral,Praseodymium,All energy technologies,World,component,Current Policies scenario,2045,4.64,kt
+Energy demand by mineral,Praseodymium,All energy technologies,World,component,Current Policies scenario,2050,5.02,kt
+Energy demand by mineral,Praseodymium,All energy technologies,World,component,Stated Policies scenario,2030,4.52,kt
+Energy demand by mineral,Praseodymium,All energy technologies,World,component,Stated Policies scenario,2035,5.50,kt
+Energy demand by mineral,Praseodymium,All energy technologies,World,component,Stated Policies scenario,2040,5.44,kt
+Energy demand by mineral,Praseodymium,All energy technologies,World,component,Stated Policies scenario,2045,6.09,kt
+Energy demand by mineral,Praseodymium,All energy technologies,World,component,Stated Policies scenario,2050,6.99,kt
+Energy demand by mineral,Praseodymium,All energy technologies,World,component,High Demand Scenario,2030,6.11,kt
+Energy demand by mineral,Praseodymium,All energy technologies,World,component,High Demand Scenario,2035,7.45,kt
+Energy demand by mineral,Praseodymium,All energy technologies,World,component,High Demand Scenario,2040,8.03,kt
+Energy demand by mineral,Praseodymium,All energy technologies,World,component,High Demand Scenario,2045,8.83,kt
+Energy demand by mineral,Praseodymium,All energy technologies,World,component,High Demand Scenario,2050,10.40,kt
+Energy demand by mineral,Terbium,All energy technologies,World,component,Base year (all scenarios),2025,0.46,kt
+Energy demand by mineral,Terbium,All energy technologies,World,component,Current Policies scenario,2030,0.71,kt
+Energy demand by mineral,Terbium,All energy technologies,World,component,Current Policies scenario,2035,0.81,kt
+Energy demand by mineral,Terbium,All energy technologies,World,component,Current Policies scenario,2040,0.74,kt
+Energy demand by mineral,Terbium,All energy technologies,World,component,Current Policies scenario,2045,0.80,kt
+Energy demand by mineral,Terbium,All energy technologies,World,component,Current Policies scenario,2050,0.89,kt
+Energy demand by mineral,Terbium,All energy technologies,World,component,Stated Policies scenario,2030,0.80,kt
+Energy demand by mineral,Terbium,All energy technologies,World,component,Stated Policies scenario,2035,0.94,kt
+Energy demand by mineral,Terbium,All energy technologies,World,component,Stated Policies scenario,2040,0.90,kt
+Energy demand by mineral,Terbium,All energy technologies,World,component,Stated Policies scenario,2045,1.01,kt
+Energy demand by mineral,Terbium,All energy technologies,World,component,Stated Policies scenario,2050,1.19,kt
+Energy demand by mineral,Terbium,All energy technologies,World,component,High Demand Scenario,2030,1.12,kt
+Energy demand by mineral,Terbium,All energy technologies,World,component,High Demand Scenario,2035,1.28,kt
+Energy demand by mineral,Terbium,All energy technologies,World,component,High Demand Scenario,2040,1.35,kt
+Energy demand by mineral,Terbium,All energy technologies,World,component,High Demand Scenario,2045,1.49,kt
+Energy demand by mineral,Terbium,All energy technologies,World,component,High Demand Scenario,2050,1.84,kt
+Energy demand by mineral,Yttrium,All energy technologies,World,component,Base year (all scenarios),2025,0.00,kt
+Energy demand by mineral,Yttrium,All energy technologies,World,component,Current Policies scenario,2030,0.01,kt
+Energy demand by mineral,Yttrium,All energy technologies,World,component,Current Policies scenario,2035,0.01,kt
+Energy demand by mineral,Yttrium,All energy technologies,World,component,Current Policies scenario,2040,0.01,kt
+Energy demand by mineral,Yttrium,All energy technologies,World,component,Current Policies scenario,2045,0.01,kt
+Energy demand by mineral,Yttrium,All energy technologies,World,component,Current Policies scenario,2050,0.01,kt
+Energy demand by mineral,Yttrium,All energy technologies,World,component,Stated Policies scenario,2030,0.01,kt
+Energy demand by mineral,Yttrium,All energy technologies,World,component,Stated Policies scenario,2035,0.02,kt
+Energy demand by mineral,Yttrium,All energy technologies,World,component,Stated Policies scenario,2040,0.01,kt
+Energy demand by mineral,Yttrium,All energy technologies,World,component,Stated Policies scenario,2045,0.01,kt
+Energy demand by mineral,Yttrium,All energy technologies,World,component,Stated Policies scenario,2050,0.01,kt
+Energy demand by mineral,Yttrium,All energy technologies,World,component,High Demand Scenario,2030,0.02,kt
+Energy demand by mineral,Yttrium,All energy technologies,World,component,High Demand Scenario,2035,0.02,kt
+Energy demand by mineral,Yttrium,All energy technologies,World,component,High Demand Scenario,2040,0.01,kt
+Energy demand by mineral,Yttrium,All energy technologies,World,component,High Demand Scenario,2045,0.01,kt
+Energy demand by mineral,Yttrium,All energy technologies,World,component,High Demand Scenario,2050,0.01,kt
+Energy demand by mineral,Lanthanum,All energy technologies,World,component,Base year (all scenarios),2025,0.00,kt
+Energy demand by mineral,Lanthanum,All energy technologies,World,component,Current Policies scenario,2030,0.01,kt
+Energy demand by mineral,Lanthanum,All energy technologies,World,component,Current Policies scenario,2035,0.00,kt
+Energy demand by mineral,Lanthanum,All energy technologies,World,component,Current Policies scenario,2040,0.00,kt
+Energy demand by mineral,Lanthanum,All energy technologies,World,component,Current Policies scenario,2045,0.00,kt
+Energy demand by mineral,Lanthanum,All energy technologies,World,component,Current Policies scenario,2050,0.00,kt
+Energy demand by mineral,Lanthanum,All energy technologies,World,component,Stated Policies scenario,2030,0.01,kt
+Energy demand by mineral,Lanthanum,All energy technologies,World,component,Stated Policies scenario,2035,0.00,kt
+Energy demand by mineral,Lanthanum,All energy technologies,World,component,Stated Policies scenario,2040,0.00,kt
+Energy demand by mineral,Lanthanum,All energy technologies,World,component,Stated Policies scenario,2045,0.00,kt
+Energy demand by mineral,Lanthanum,All energy technologies,World,component,Stated Policies scenario,2050,0.00,kt
+Energy demand by mineral,Lanthanum,All energy technologies,World,component,High Demand Scenario,2030,0.04,kt
+Energy demand by mineral,Lanthanum,All energy technologies,World,component,High Demand Scenario,2035,0.03,kt
+Energy demand by mineral,Lanthanum,All energy technologies,World,component,High Demand Scenario,2040,0.03,kt
+Energy demand by mineral,Lanthanum,All energy technologies,World,component,High Demand Scenario,2045,0.04,kt
+Energy demand by mineral,Lanthanum,All energy technologies,World,component,High Demand Scenario,2050,0.05,kt
+Energy demand by mineral,Total rare earth elements,All energy technologies,World,total,Base year (all scenarios),2025,20.90,kt
+Energy demand by mineral,Total rare earth elements,All energy technologies,World,total,Current Policies scenario,2030,33.10,kt
+Energy demand by mineral,Total rare earth elements,All energy technologies,World,total,Current Policies scenario,2035,38.00,kt
+Energy demand by mineral,Total rare earth elements,All energy technologies,World,total,Current Policies scenario,2040,35.80,kt
+Energy demand by mineral,Total rare earth elements,All energy technologies,World,total,Current Policies scenario,2045,37.40,kt
+Energy demand by mineral,Total rare earth elements,All energy technologies,World,total,Current Policies scenario,2050,39.90,kt
+Energy demand by mineral,Total rare earth elements,All energy technologies,World,total,Stated Policies scenario,2030,36.60,kt
+Energy demand by mineral,Total rare earth elements,All energy technologies,World,total,Stated Policies scenario,2035,44.10,kt
+Energy demand by mineral,Total rare earth elements,All energy technologies,World,total,Stated Policies scenario,2040,44.40,kt
+Energy demand by mineral,Total rare earth elements,All energy technologies,World,total,Stated Policies scenario,2045,49.50,kt
+Energy demand by mineral,Total rare earth elements,All energy technologies,World,total,Stated Policies scenario,2050,56.10,kt
+Energy demand by mineral,Total rare earth elements,All energy technologies,World,total,High Demand Scenario,2030,48.40,kt
+Energy demand by mineral,Total rare earth elements,All energy technologies,World,total,High Demand Scenario,2035,59.70,kt
+Energy demand by mineral,Total rare earth elements,All energy technologies,World,total,High Demand Scenario,2040,64.50,kt
+Energy demand by mineral,Total rare earth elements,All energy technologies,World,total,High Demand Scenario,2045,70.00,kt
+Energy demand by mineral,Total rare earth elements,All energy technologies,World,total,High Demand Scenario,2050,80.30,kt
+Energy demand by mineral,Total,All energy technologies,World,total,Base year (all scenarios),2025,"13,391.00",kt
+Energy demand by mineral,Total,All energy technologies,World,total,Current Policies scenario,2030,"18,422.00",kt
+Energy demand by mineral,Total,All energy technologies,World,total,Current Policies scenario,2035,"21,194.00",kt
+Energy demand by mineral,Total,All energy technologies,World,total,Current Policies scenario,2040,"22,297.00",kt
+Energy demand by mineral,Total,All energy technologies,World,total,Current Policies scenario,2045,"22,990.00",kt
+Energy demand by mineral,Total,All energy technologies,World,total,Current Policies scenario,2050,"23,142.00",kt
+Energy demand by mineral,Total,All energy technologies,World,total,Stated Policies scenario,2030,"19,711.00",kt
+Energy demand by mineral,Total,All energy technologies,World,total,Stated Policies scenario,2035,"23,918.00",kt
+Energy demand by mineral,Total,All energy technologies,World,total,Stated Policies scenario,2040,"25,979.00",kt
+Energy demand by mineral,Total,All energy technologies,World,total,Stated Policies scenario,2045,"27,078.00",kt
+Energy demand by mineral,Total,All energy technologies,World,total,Stated Policies scenario,2050,"27,885.00",kt
+Energy demand by mineral,Total,All energy technologies,World,total,High Demand Scenario,2030,"23,128.00",kt
+Energy demand by mineral,Total,All energy technologies,World,total,High Demand Scenario,2035,"29,185.00",kt
+Energy demand by mineral,Total,All energy technologies,World,total,High Demand Scenario,2040,"33,014.00",kt
+Energy demand by mineral,Total,All energy technologies,World,total,High Demand Scenario,2045,"33,863.00",kt
+Energy demand by mineral,Total,All energy technologies,World,total,High Demand Scenario,2050,"36,510.00",kt
+,,,,,,,,
+"Source: IEA (2026), Critical Minerals Data Explorer, CC BY 4.0.",,,,,,,,
